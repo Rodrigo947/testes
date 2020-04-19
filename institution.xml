@@ -2852,11 +2852,11 @@
     <coordinates>0.00000000,0.00000000</coordinates>
     <inst_type/>
     <contact>
-      <name/>
-      <email/>
-      <phone/>
-      <type/>
-      <privacy/>
+      <name> </name>
+      <email> </email>
+      <phone> </phone>
+      <type> </type>
+      <privacy> </privacy>
     </contact>
     <info_URL lang="br">http://www.eduroam.br</info_URL>
     <policy_URL lang="en">http://www.eduroam.br</policy_URL>
@@ -38218,11 +38218,11 @@ Caixa Postal 99"</street>
     <coordinates>-48.67355347,-14.39211808</coordinates>
     <inst_type>intsTeste</inst_type>
     <contact>
-      <name/>
-      <email/>
-      <phone/>
-      <type/>
-      <privacy/>
+      <name> </name>
+      <email> </email>
+      <phone> </phone>
+      <type> </type>
+      <privacy> </privacy>
     </contact>
     <info_URL lang="br">http://www.eduroam.br</info_URL>
     <info_URL lang="en">http://www.eduroam.br</info_URL>
