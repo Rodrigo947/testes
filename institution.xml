@@ -20,8 +20,6 @@
       <phone>+55 61 2022 6165</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Emerson Vieira dos Santos</name>
       <email>emerson.santos@capes.gov.br</email>
       <phone>+55 61 2022 6153</phone>
@@ -72,8 +70,6 @@
       <phone>+5592 3305 1181 R204</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Gilvan Reis</name>
       <email>gilvan.reis@pop-am.rnp.br</email>
       <phone>+5592 3305 1181 R204</phone>
@@ -429,8 +425,6 @@
       <phone>+5551 37177420</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Marco Ferreira</name>
       <email>redes@unisc.br</email>
       <phone>+5551 37177420</phone>
@@ -1281,8 +1275,6 @@
       <phone>+55 21 2182-2177</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>F&#xE1;bio Leite Dias</name>
       <email>fabioleite@unir.br</email>
       <phone>+55 21 2182-2177</phone>
@@ -2473,8 +2465,6 @@
       <phone>+55 48 3664 8133</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Henrique de Camargo Carlos</name>
       <email>henrique.carlos@udesc.br</email>
       <phone>+55 48 3664 7950</phone>
@@ -2805,8 +2795,6 @@
       <phone>55 35 3629 1642</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jos&#xE9; Everaldo Campos</name>
       <email>everaldo@unifei.edu.br</email>
       <phone>55 35 3629 1015</phone>
@@ -2851,6 +2839,7 @@
     </address>
     <coordinates>0.00000000,0.00000000</coordinates>
     <inst_type/>
+    <contact/>
     <info_URL lang="br">http://www.eduroam.br</info_URL>
     <policy_URL lang="en">http://www.eduroam.br</policy_URL>
     <ts>2020-02-05T16:24:18Z</ts>
@@ -2941,8 +2930,6 @@
       <phone>+55 85 3332 6138</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jo&#xE3;o Paulo Feitosa</name>
       <email>joaopaulo@unilab.edu.br</email>
       <phone>+55 85 3332 6138</phone>
@@ -3033,8 +3020,6 @@
       <phone>+55 55 3332 0366</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Maiquel Fridhein</name>
       <email>maiquel@unijui.edu.br</email>
       <phone>+55 55 3332 0370</phone>
@@ -3905,8 +3890,6 @@
       <phone>+5571 2102 0406</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Marcelo do Espirito Santo Sousa</name>
       <email>marcelosousa@ifba.edu.br</email>
       <phone>+5571 2102 0409</phone>
@@ -3957,8 +3940,6 @@
       <phone>+55 34 3700 6432</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Humberto Parreira</name>
       <email>humberto.parreira@uftm.edu.br</email>
       <phone>+55 34 3700 6401</phone>
@@ -4529,8 +4510,6 @@
       <phone>55 65 36164160</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Rodrigo Pacheco Guedes</name>
       <email>rodrigo.guedes@ifmt.edu.br</email>
       <phone>55 65 63164104</phone>
@@ -4942,8 +4921,6 @@ Caixa Postal 99"</street>
       <phone>+5567 3345 7298</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Pericles Christian Moraes Lopes</name>
       <email>pericles.lopes@ufms.br</email>
       <phone>+5567 3345 7234</phone>
@@ -5114,8 +5091,6 @@ Caixa Postal 99"</street>
       <phone>067 3345 7299</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>P&#xE9;ricles Christian</name>
       <email>suporte.nti@ufms.br</email>
       <phone>067 3345 7292</phone>
@@ -5426,8 +5401,6 @@ Caixa Postal 99"</street>
       <phone>+55 91 3201-7391</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Hugo Pereira Kuribayashi</name>
       <email>hugo@ufpa.br</email>
       <phone>+55 91 3201-7391</phone>
@@ -6098,8 +6071,6 @@ Caixa Postal 99"</street>
       <phone>+55 49 2049-2650</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Neimar Assmann</name>
       <email>neimar.assmann@uffs.edu.br</email>
       <phone>+55 49 2049-2630</phone>
@@ -6290,8 +6261,6 @@ Caixa Postal 99"</street>
       <phone>+5555 3218 9825</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Thiago Sonnenstrahl</name>
       <email>thiago.sonnenstrahl@iffarroupilha.edu.br</email>
       <phone>+5555 3218 9826</phone>
@@ -6342,8 +6311,6 @@ Caixa Postal 99"</street>
       <phone>63 98439-6638</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Madson Oliveira</name>
       <email>madsonoliveira@ifto.edu.br</email>
       <phone>63 99231-2225</phone>
@@ -6394,8 +6361,6 @@ Caixa Postal 99"</street>
       <phone>+55 11 5627-0414</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jessian Cavalcanti</name>
       <email>jessian@unesp.br</email>
       <phone>+55 11 5627-0572</phone>
@@ -16566,8 +16531,6 @@ Caixa Postal 99"</street>
       <phone>2422336025</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Bruno Alves Fagundes</name>
       <email>brunoaf@lncc.br</email>
       <phone>2422336206</phone>
@@ -16618,8 +16581,6 @@ Caixa Postal 99"</street>
       <phone>+55 77 3611 3564</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Luiz Hil&#xE1;rio Ferreira Damascena</name>
       <email>luiz.damascena@ufob.edu.br</email>
       <phone>+55 21 3611 3564</phone>
@@ -16770,8 +16731,6 @@ Caixa Postal 99"</street>
       <phone>+5519 3512 1077</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Dennis Campos</name>
       <email>dennis.campos@cnpem.br</email>
       <phone>+5519 3512 1078</phone>
@@ -17902,8 +17861,6 @@ Caixa Postal 99"</street>
       <phone>558233152200</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Fernando Souza</name>
       <email>fernando.souza@fapeal.br</email>
       <phone>558233152200</phone>
@@ -17953,8 +17910,6 @@ Caixa Postal 99"</street>
       <phone>+5551 3320-3511</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Rogerio Machado Xavier</name>
       <email>rogerio.xavier@pucrs.br</email>
       <phone>+5551 3320-3511</phone>
@@ -18585,8 +18540,6 @@ Caixa Postal 99"</street>
       <phone>+55 53 999 753035</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Paulo Henrique</name>
       <email>paulohenrique@urcamp.edu.br</email>
       <phone>+55 53 999 411380</phone>
@@ -18637,8 +18590,6 @@ Caixa Postal 99"</street>
       <phone>+55 (44) 3011-4440</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Antonio da Silva Martins</name>
       <email>asmartins@uem.br</email>
       <phone>+55 44 3011-4015</phone>
@@ -18689,8 +18640,6 @@ Caixa Postal 99"</street>
       <phone>+55 48 3721-6339</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Gustavo Pereira Mateus</name>
       <email>gustavo.mateus@ufsc.br</email>
       <phone>+55 48 3721-6346</phone>
@@ -19181,8 +19130,6 @@ Caixa Postal 99"</street>
       <phone>+55 87 2101-6809</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Augusto C&#xE9;sar Ribeiro da Silva</name>
       <email>augusto.silva@univasf.edu.br</email>
       <phone>+55 87 2101-6815</phone>
@@ -20493,8 +20440,6 @@ Caixa Postal 99"</street>
       <phone>+55 51 3714 7000</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Equipe de redes</name>
       <email>redes@univates.br</email>
       <phone>+55 51 3714 7040</phone>
@@ -21085,8 +21030,6 @@ Caixa Postal 99"</street>
       <phone>+55 61 20224374</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Lourival Naves de Carvalho</name>
       <email>lourival.carvalho@fnde.gov. br</email>
       <phone>+55 21 20224007</phone>
@@ -21137,8 +21080,6 @@ Caixa Postal 99"</street>
       <phone>91 3342-0594</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Nayguron Henrique</name>
       <email>nayguron.henrique@ifpa.edu.br</email>
       <phone>91 3342-0594</phone>
@@ -21189,8 +21130,6 @@ Caixa Postal 99"</street>
       <phone>+553532424395</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Marcos Alexandre dos Santos</name>
       <email>marcos@dgti.ufla.br</email>
       <phone>+553521422075</phone>
@@ -22341,8 +22280,6 @@ Caixa Postal 99"</street>
       <phone>+55 21 2334 0340</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Rodrigo Rodrigues</name>
       <email>rodrigo.rodrigues@uerj.br</email>
       <phone>+55 21 2334 0340</phone>
@@ -22393,8 +22330,6 @@ Caixa Postal 99"</street>
       <phone>+55 21 2529 5062</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Manoel Prazeres</name>
       <email>prazeres@impa.br</email>
       <phone>+55 21 2529 5061</phone>
@@ -22445,8 +22380,6 @@ Caixa Postal 99"</street>
       <phone>(84) 3317-8243</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Marcelo Carlos de Araujo</name>
       <email>marcelo.araujo@ufersa.edu.br </email>
       <phone>(84) 3317-8243</phone>
@@ -22557,8 +22490,6 @@ Caixa Postal 99"</street>
       <phone>(86) 3131.1414 [Rama</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Eduilson</name>
       <email>eduilson@ifpi.edu.br</email>
       <phone>(86) 99402.9966</phone>
@@ -22729,8 +22660,6 @@ Caixa Postal 99"</street>
       <phone>+5563 3232 8578</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Juliano Alves Rios</name>
       <email>julianorios@uft.edu.br</email>
       <phone>+5563 3232 8034</phone>
@@ -23361,8 +23290,6 @@ Caixa Postal 99"</street>
       <phone>+55 84 98866 0713</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Ranyere Maia Alves</name>
       <email>ranyeremaia@laureate.com.br</email>
       <phone>+55 84 99116 6575</phone>
@@ -23493,8 +23420,6 @@ Caixa Postal 99"</street>
       <phone>(27) 4009-2320</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Renan Teixeira</name>
       <email>diretor.administrativo@npd.ufes.br</email>
       <phone>(27) 4009-2320</phone>
@@ -23745,15 +23670,11 @@ Caixa Postal 99"</street>
       <phone>+55 27 3357 7511</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Gelinton Pablo Mariano </name>
       <email>gelinton.mariano@ifes.edu.br</email>
       <phone>+55 27 3357 7549</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Stefano Terci Gasperazzo </name>
       <email>stefano@ifes.edu.br</email>
       <phone>+5527 3357 7549</phone>
@@ -23904,8 +23825,6 @@ Caixa Postal 99"</street>
       <phone>+5547 3331 7846</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Renato Muniz</name>
       <email>suporte@ifc.edu.br</email>
       <phone>+5547 3331 7808</phone>
@@ -24341,8 +24260,6 @@ Caixa Postal 99"</street>
       <phone>'+5542 32203407</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Rafael Afonso Mayer</name>
       <email>rafaelmayer@uepg.br</email>
       <phone>'+5542 32203416</phone>
@@ -27361,8 +27278,6 @@ Caixa Postal 99"</street>
       <phone>+5521 2102 4106</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Diego Reis</name>
       <email>diego.reis@rnp.br</email>
       <phone>+5561 3242 4395</phone>
@@ -27753,8 +27668,6 @@ Caixa Postal 99"</street>
       <phone>+55 51 3289-6264</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Adriano Ramos Goncalves</name>
       <email>arg@procempa.com.br</email>
       <phone>+55 51 3289-6264</phone>
@@ -27885,8 +27798,6 @@ Caixa Postal 99"</street>
       <phone>+5532991813740</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Ubirajara Ces&#xE1;rio</name>
       <email>bira@ufsj.edu.br</email>
       <phone>+5532991813740</phone>
@@ -27937,8 +27848,6 @@ Caixa Postal 99"</street>
       <phone>+55 85 3101-9998</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Thiago Everton</name>
       <email>thiago.everton@uece.br</email>
       <phone>+55 85 3101-9998</phone>
@@ -28129,8 +28038,6 @@ Caixa Postal 99"</street>
       <phone>21 3885-1773</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Felipe Paiva de Castro</name>
       <email>felipe.castro@fiocruz.br</email>
       <phone>21 3836-1134</phone>
@@ -28181,8 +28088,6 @@ Caixa Postal 99"</street>
       <phone>+5571 3117-2360</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Paulo Celso Bandeira</name>
       <email>pcbandeira@uneb.br</email>
       <phone>+5571 3117-2447</phone>
@@ -28233,22 +28138,16 @@ Caixa Postal 99"</street>
       <phone>55 11 2648 1381</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Valter Pereira</name>
       <email>valter.pereira@pop-sp.rnp.br</email>
       <phone>55 11 3091 1829</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Matheus&#xA0;Nascimento de Camargo</name>
       <email>matheus.camargo@pop-sp.rnp.br</email>
       <phone>55 11 3091 9799</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Amauri Benedito da Silva</name>
       <email>amauri.silva@pop-sp.rnp.br</email>
       <phone>55 11 3091 8901</phone>
@@ -28299,8 +28198,6 @@ Caixa Postal 99"</street>
       <phone>+554933218310</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jhony Maiky Maseto</name>
       <email>redes@unochapeco.edu.br</email>
       <phone>+554933218310</phone>
@@ -30596,8 +30493,6 @@ Caixa Postal 99"</street>
       <phone>+5549 33218310</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jhony Maiky Maseto</name>
       <email>jhony@unochapeco.edu.br</email>
       <phone>+5549 33218310</phone>
@@ -30648,8 +30543,6 @@ Caixa Postal 99"</street>
       <phone>+55 83 3315 3367</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Thiago N&#xF3;brega</name>
       <email>thiagonobrega@uepb.edu.br</email>
       <phone>+55 83 3315 3367</phone>
@@ -31400,8 +31293,6 @@ Caixa Postal 99"</street>
       <phone>+5519 3343-7154</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Leonardo Senra</name>
       <email>leonardo.senra@puc-campinas.edu.br</email>
       <phone>+5519 3343-7454</phone>
@@ -32312,8 +32203,6 @@ Caixa Postal 99"</street>
       <phone>+5584 3242 2294</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Kleydson Cunha</name>
       <email>Kleydson.cunha@pop-rn.rnp.br</email>
       <phone>+5584 3242 2294</phone>
@@ -32364,8 +32253,6 @@ Caixa Postal 99"</street>
       <phone>+55 98 2106 8200</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Lu&#xED;s Carlos Fonseca</name>
       <email>luiscarlos@uema.br</email>
       <phone>+55 98 2106 8200</phone>
@@ -32596,8 +32483,6 @@ Caixa Postal 99"</street>
       <phone>067 3345 7299</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>P&#xE9;ricles Christian</name>
       <email>suporte.nti@ufms.br</email>
       <phone>067 3345 7292</phone>
@@ -32908,8 +32793,6 @@ Caixa Postal 99"</street>
       <phone>+55 81 3183 4305</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Zuleika Ten&#xF3;rio</name>
       <email>zuleika.tenorio@pop-pe.rnp.br</email>
       <phone>+55 81 3183 4305</phone>
@@ -32960,8 +32843,6 @@ Caixa Postal 99"</street>
       <phone>55 53 999753035</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Paulo Henrique Seixas Leite</name>
       <email>paulohenrique@urcamp.edu.br</email>
       <phone>55 53 999411380</phone>
@@ -33012,8 +32893,6 @@ Caixa Postal 99"</street>
       <phone>'+5515 21017067</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Elidan Pontes</name>
       <email>elidan.pontes@uniso.br</email>
       <phone>'+5515 21017067</phone>
@@ -33064,8 +32943,6 @@ Caixa Postal 99"</street>
       <phone>+556236122241</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Roberval Lustosa de Aguiar Filho</name>
       <email>roberval.filho@ifg.edu.br</email>
       <phone>+556236122266</phone>
@@ -33416,8 +33293,6 @@ Caixa Postal 99"</street>
       <phone>+55 85 3332 6138</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jo&#xE3;o Paulo Feitosa</name>
       <email>joaopaulo@unilab.edu.br</email>
       <phone>+55 85 3332 6138</phone>
@@ -33508,8 +33383,6 @@ Caixa Postal 99"</street>
       <phone>+5591 3201-7803</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Marcelo Moraes</name>
       <email>marcelo@ufpa.br</email>
       <phone>+5591 3201-7803</phone>
@@ -34900,8 +34773,6 @@ Caixa Postal 99"</street>
       <phone>55 27 3331 2103</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Ramon Marques Ramos</name>
       <email>ramon.ramos@ifes.edu.br</email>
       <phone>55 27 3331 2103</phone>
@@ -34972,8 +34843,6 @@ Caixa Postal 99"</street>
       <phone>55 53 99975 3035</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Paulo Henrique Seixas Leite</name>
       <email>paulohenrique@urcamp.edu.br</email>
       <phone>55 53 99941 1380</phone>
@@ -35024,8 +34893,6 @@ Caixa Postal 99"</street>
       <phone>+5582 3315 4999</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Bruno Barbosa</name>
       <email>bruno.barbosa@rnp.br</email>
       <phone>+5582 3315 4999</phone>
@@ -35076,8 +34943,6 @@ Caixa Postal 99"</street>
       <phone>+55 11 3775 4652</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Diego Cesar Valente e Silva</name>
       <email>diegovalente@ifsp.edu.br</email>
       <phone>+55 11 3775 4653</phone>
@@ -35848,8 +35713,6 @@ Caixa Postal 99"</street>
       <phone>+55 (41) 3361-3545</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Cezar Augusto Machado</name>
       <email>cezar@ufpr.br</email>
       <phone>+55 (41) 3361-3312</phone>
@@ -36200,8 +36063,6 @@ Caixa Postal 99"</street>
       <phone>+5531 3409 4007</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Gustavo Aur&#xE9;lio Santos Diniz</name>
       <email>gaurelio@ufmg.br</email>
       <phone>+5531 3409 6455</phone>
@@ -37052,8 +36913,6 @@ Caixa Postal 99"</street>
       <phone>+556839012507</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Christian Lima</name>
       <email>christian@pop-ac.rnp.br</email>
       <phone>+55556839012507</phone>
@@ -37104,8 +36963,6 @@ Caixa Postal 99"</street>
       <phone>+55 (31) 3069-3468</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Pedro Henrique Ara&#xFA;jo de Matos</name>
       <email>pedro.matos@cdtn.br</email>
       <phone>+55 (31) 3069-3064</phone>
@@ -37516,8 +37373,6 @@ Caixa Postal 99"</street>
       <phone>+5553 3233 6569</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Bernardo Silva</name>
       <email>bernardo.silva@furg.br</email>
       <phone>+5553 3233 6831</phone>
@@ -37813,8 +37668,6 @@ Caixa Postal 99"</street>
       <phone>+55 11 3385 4165</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jos&#xE9; Carlos A. Ohta</name>
       <email>ohta@unifesp.br</email>
       <phone>+55 11 3385 4165</phone>
@@ -38165,8 +38018,6 @@ Caixa Postal 99"</street>
       <phone>55 61 3211 9110</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Joaquim Humberto M. Mota</name>
       <email>joaquim@cnpq.br</email>
       <phone>55 61 3211 9116</phone>
@@ -38210,6 +38061,7 @@ Caixa Postal 99"</street>
     </address>
     <coordinates>-48.67355347,-14.39211808</coordinates>
     <inst_type>intsTeste</inst_type>
+    <contact/>
     <info_URL lang="br">http://www.eduroam.br</info_URL>
     <info_URL lang="en">http://www.eduroam.br</info_URL>
     <policy_URL lang="en">http://www.eduroam.br</policy_URL>
@@ -38256,8 +38108,6 @@ Caixa Postal 99"</street>
       <phone>+55 83 3612 9740</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Sergio J&#xFA;nior</name>
       <email>sergio.luiz@ifpb.edu.br</email>
       <phone>+55 83 3612 9740</phone>
@@ -38308,8 +38158,6 @@ Caixa Postal 99"</street>
       <phone>+55 41 3207-3209 \ +</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Felipe Lima Santos</name>
       <email>f.santos3@grupomarista.org.br</email>
       <phone>+55 41 3271-6229</phone>
@@ -38540,8 +38388,6 @@ Caixa Postal 99"</street>
       <phone>+55 54 3520-9000 / 9</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Neimar Assmann</name>
       <email>neimar@uricer.edu.br</email>
       <phone>+55 54 3520-9000 / 9</phone>
@@ -38592,8 +38438,6 @@ Caixa Postal 99"</street>
       <phone>+556134484457</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Rog&#xE9;rio Andrade</name>
       <email>rogerio.andrade@embrapa.br</email>
       <phone>+556134484245</phone>
@@ -38664,8 +38508,6 @@ Caixa Postal 99"</street>
       <phone>+55 84 3342 2210</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jo&#xE3;o Batista</name>
       <email>joaobx@info.ufrn.br</email>
       <phone>+55 84 3342 2210</phone>
@@ -38716,8 +38558,6 @@ Caixa Postal 99"</street>
       <phone>55 47 3341 7777</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Ruth Broglio Silveira</name>
       <email>ruth@univali.br</email>
       <phone>5547 3341 7778</phone>
@@ -38888,8 +38728,6 @@ Caixa Postal 99"</street>
       <phone> +55 13 3205 5555</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Mariangela Mendes Lomba Pinho</name>
       <email>mariangelamlp@unisantos.br</email>
       <phone> +55 13 3205 5555</phone>
@@ -38980,8 +38818,6 @@ Caixa Postal 99"</street>
       <phone>+55 77 99953-8386</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>David Dutkievicz</name>
       <email>davidd@ufob.edu.br</email>
       <phone>+55 77 99152-1782</phone>
@@ -39132,8 +38968,6 @@ Caixa Postal 99"</street>
       <phone>+55 51 33598000</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Renato Malvezzi</name>
       <email>rmalvezzi@hcpa.edu.br</email>
       <phone>++55 51 33598227</phone>
@@ -39184,8 +39018,6 @@ Caixa Postal 99"</street>
       <phone>+55 96 3198 2154</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Maco Pantoja</name>
       <email>marco.pantoja@ifap.edu.br</email>
       <phone>+55 96 3198 2154</phone>
@@ -39256,8 +39088,6 @@ Caixa Postal 99"</street>
       <phone>55 11 3133 8888</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Dorival Antonio Nunes</name>
       <email>danunes@ipen.br</email>
       <phone>55 11 3133 8893</phone>
@@ -39548,8 +39378,6 @@ Caixa Postal 99"</street>
       <phone>(61) 3772-1016 / (61</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Rafael de Oliveira Martins</name>
       <email>rafael.martins@embrapii.org.br</email>
       <phone>(61) 3772-1044</phone>
@@ -39600,8 +39428,6 @@ Caixa Postal 99"</street>
       <phone>(88) 3221-9414</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Renan Oliveira Nunes</name>
       <email>renan.oliveira@ufca.edu.br</email>
       <phone>(88) 3221-9415</phone>
@@ -40552,8 +40378,6 @@ Caixa Postal 99"</street>
       <phone>+55 19 3746 6077</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Thiago Jos&#xE9; Mendes Ferreira</name>
       <email>thiago.ferreira@cti.gov.br</email>
       <phone>+55 19 3746-6217</phone>
@@ -40644,8 +40468,6 @@ Caixa Postal 99"</street>
       <phone>+55 21 2566-3013</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Erick Santos</name>
       <email>erick.santos@cefet-rj.br</email>
       <phone>+55 21 2566-3010</phone>
@@ -40696,8 +40518,6 @@ Caixa Postal 99"</street>
       <phone>+5579 3194 6724</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Rodrigo Rezende</name>
       <email>rodrigo.rezende@pop-se.rnp.br</email>
       <phone>+5521 3194 6355</phone>
@@ -40748,8 +40568,6 @@ Caixa Postal 99"</street>
       <phone>+55 91 32017807</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Nelson Braz&#xE3;o</name>
       <email>nelson.brazao@pop-pa.rnp.br</email>
       <phone>+55 91 32017807</phone>
@@ -40800,8 +40618,6 @@ Caixa Postal 99"</street>
       <phone>+55 71 3276 8220</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Ivan Mota</name>
       <email>nti-ivanmota@bahiana.edu.br</email>
       <phone>+55 71 32768207</phone>
@@ -40997,8 +40813,6 @@ Caixa Postal 99"</street>
       <phone>+554535292110</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Carlos A. M. Basso</name>
       <email>carlos.alberto@unila.edu.br</email>
       <phone>+554535292120</phone>
@@ -41089,8 +40903,6 @@ Caixa Postal 99"</street>
       <phone>+55 12 3208 6760</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Ricardo Varela Correa</name>
       <email>ricardo.varela@inpe.br</email>
       <phone>+55 12 3208 6760</phone>
@@ -41921,8 +41733,6 @@ Caixa Postal 99"</street>
       <phone>+55 54 3316-8399</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Adriano Pasqualotti</name>
       <email>pasqualotti@upf.br</email>
       <phone>+55 54 3316-8250</phone>
@@ -42033,8 +41843,6 @@ Caixa Postal 99"</street>
       <phone>+55 55 3220 8603</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Douglas Pegoraro Stangarlin</name>
       <email>douglastangarlin@cpd.ufsm.br</email>
       <phone>+55 55 3220 8843</phone>
@@ -42965,8 +42773,6 @@ Caixa Postal 99"</street>
       <phone>+555432182573</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jeronimo Zucco</name>
       <email>jczucco@ucs.br</email>
       <phone>+555432182660</phone>
@@ -44656,8 +44462,6 @@ Caixa Postal 99"</street>
       <phone>95 991237938</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Thyago de Melo Tosin</name>
       <email>thyago.tosin@ifrr.edu.br</email>
       <phone>95 3624 1224</phone>
@@ -44748,8 +44552,6 @@ Caixa Postal 99"</street>
       <phone>55 11 3838 4082</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Eloise Bonfante Amorim Monsanto</name>
       <email>eloise@fapesp.br</email>
       <phone>55 11 3838 4128</phone>
@@ -44800,8 +44602,6 @@ Caixa Postal 99"</street>
       <phone>+55 62 3605-3616</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Fernando Pirkel Tsukahara</name>
       <email>fernando.tsukahara@ifgoiano.edu.br</email>
       <phone>+55 62 3605-3616</phone>
@@ -44852,8 +44652,6 @@ Caixa Postal 99"</street>
       <phone>+5522 27375603</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Antonio Guedes Soares Jr</name>
       <email>agsoares@iff.edu.br</email>
       <phone>+5522 27375604</phone>
@@ -44924,8 +44722,6 @@ Caixa Postal 99"</street>
       <phone>+55 51 3303 8818</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Itamar M. da Silva</name>
       <email>itamar@ufcspa.edu.br</email>
       <phone>+55 51 3303 8818</phone>
@@ -45016,8 +44812,6 @@ Caixa Postal 99"</street>
       <phone>+55 81 3320 6046</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Vamberto Rocha</name>
       <email>vamberto@ufrpe.br</email>
       <phone>+55 81 3320 6046</phone>
@@ -45108,8 +44902,6 @@ Caixa Postal 99"</street>
       <phone>+55 86 3215 5627</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>M&#xE1;rio Moura</name>
       <email>mclmoura@ufpi.edu.br</email>
       <phone>+55 86 3215 5627</phone>
@@ -45160,8 +44952,6 @@ Caixa Postal 99"</street>
       <phone>+55 11 4239-3433</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jo&#xE3;o Em&#xED;lio Pagan</name>
       <email>jepagan@uscs.edu.br</email>
       <phone>+55 11 4239-3234</phone>
@@ -45212,8 +45002,6 @@ Caixa Postal 99"</street>
       <phone>+55 31 3319 4008</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Renato Lopes da Silva</name>
       <email>renatolopes@pucminas.br</email>
       <phone>+55 31 3319 4004</phone>
@@ -46789,8 +46577,6 @@ Caixa Postal 99"</street>
       <phone>21 3938-1956</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>DSSC/TIC</name>
       <email>adm.servidores@tic.ufrj.br</email>
       <phone>21 3938-9548</phone>
@@ -46961,8 +46747,6 @@ Caixa Postal 99"</street>
       <phone>+5563 98121 4316</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Junior Fernandes de Oliveira</name>
       <email>coordtec@pop-to.rnp.br</email>
       <phone>+5563 99225 4783</phone>
@@ -47013,8 +46797,6 @@ Caixa Postal 99"</street>
       <phone>+5567 3378 9573</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Marcio Imai</name>
       <email>marcio.imai@ifms.edu.br</email>
       <phone>+5567 3378 9571</phone>
@@ -47265,8 +47047,6 @@ Caixa Postal 99"</street>
       <phone>+55 21 4042 6606</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Guilherme Nunes Nasseh Barbosa</name>
       <email>guilhermenasseh@id.uff.br</email>
       <phone>+55 21 4042 6606</phone>
@@ -47457,8 +47237,6 @@ Caixa Postal 99"</street>
       <phone>+55 49 3551 2070</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Roseli Rocha Moterle</name>
       <email>ctic.jba@unoesc.edu.br</email>
       <phone>+55 49 3551 2005</phone>
@@ -47749,8 +47527,6 @@ Caixa Postal 99"</street>
       <phone>63 98485-0805</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Ronaldo Vasconcelos Parante</name>
       <email>parente@ifto.edu.br</email>
       <phone>63 3229-2212</phone>
@@ -47821,15 +47597,11 @@ Caixa Postal 99"</street>
       <phone>+55 48 3877 9049</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Luiz Fernando Ramos Costa</name>
       <email>luiz.costa@ifsc.edu.br</email>
       <phone>+55 48 3877 9049</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Glaidson Verzeletti</name>
       <email>glaidson.verzeletti@ifsc.edu.br</email>
       <phone>+55 49 3221 4221</phone>
@@ -48260,8 +48032,6 @@ Caixa Postal 99"</street>
       <phone>+555135908385</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Marco Ant&#xF4;nio Rolon</name>
       <email>marco@asav.org.br</email>
       <phone>+555135908386</phone>
@@ -48332,36 +48102,26 @@ Caixa Postal 99"</street>
       <phone>+5561 3243 4389</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jean Carlo Faustino</name>
       <email>jean.carlo@rnp.br</email>
       <phone>+5561 3243-4351</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Rafael Melo Veras</name>
       <email>rafael.veras@rnp.br</email>
       <phone>+55 84 3342-2294</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Anderson P. Almeida</name>
       <email>anderson.almeida@rnp.br</email>
       <phone>+55 82 3315-4999 </phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Service Desk RNP</name>
       <email>equipesd@rnp.br</email>
       <phone>+55 0800 722 0216</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jos&#xE9; Carlos Teixeira J&#xFA;nior </name>
       <email>jose.junior@rnp.br</email>
       <phone>+55 (61) 3243-4422</phone>
@@ -48574,8 +48334,6 @@ Caixa Postal 99"</street>
       <phone>+55 21 21417124</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Orlanna </name>
       <email>lanna@cbpf.br</email>
       <phone>+55 21 21417113</phone>
@@ -48626,8 +48384,6 @@ Caixa Postal 99"</street>
       <phone>+5531 3319 7409</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Leonardo B. Lopes</name>
       <email>leonardo@cefetmg.br</email>
       <phone>+5531 3319 7409</phone>
@@ -48878,8 +48634,6 @@ Caixa Postal 99"</street>
       <phone>+5598 3272 8080</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Nelio Guilhon</name>
       <email>coord.adm@pop-ma.rnp.br</email>
       <phone>+5598 3272 8895</phone>
@@ -48930,8 +48684,6 @@ Caixa Postal 99"</street>
       <phone>+55 35 3701-9032</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Marcelo Penha Fernandes</name>
       <email>marcelo.penha@unifal-mg.edu.br</email>
       <phone>+55 35 3701-9033</phone>
@@ -49042,8 +48794,6 @@ Caixa Postal 99"</street>
       <phone>+55 86 3131-1414</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Nathan Saraiva</name>
       <email>nsaraiva@ifpi.edu.br</email>
       <phone>+55 86 3131-1414</phone>
@@ -49214,8 +48964,6 @@ Caixa Postal 99"</street>
       <phone>+5538 3532 1285</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Rogerio Silva</name>
       <email>rogerio.silva@ufvjm.edu.br</email>
       <phone>+5538 3532 1285</phone>
@@ -49346,8 +49094,6 @@ Caixa Postal 99"</street>
       <phone>+55 83 91918465</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Victor Hugo Santos</name>
       <email>victor.santos@ifpb.edu.br</email>
       <phone/>
@@ -49398,8 +49144,6 @@ Caixa Postal 99"</street>
       <phone>+5521 3514-5279</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Leonardo Cardozo Alves</name>
       <email>leonardo@mast.br</email>
       <phone>+5521 3514-5280</phone>
@@ -49451,8 +49195,6 @@ Caixa Postal 99"</street>
       <phone>+55 32 3257 4123</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Leandro Rodrigues</name>
       <email>leandro.rodriques@ifsudestemg.edu.br</email>
       <phone>+55 32 3257 4124</phone>
@@ -49503,8 +49245,6 @@ Caixa Postal 99"</street>
       <phone>+55 19 3521-2276</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Thiago Rodines Pereira</name>
       <email>rodines@ccuec.unicamp.br</email>
       <phone>+55 19 3521-2276</phone>
@@ -51355,8 +51095,6 @@ Caixa Postal 99"</street>
       <phone>51-3586-8800</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Esequiel Silveira</name>
       <email>esequiel@feevale.br</email>
       <phone>51-3586-8902</phone>
@@ -51447,8 +51185,6 @@ Caixa Postal 99"</street>
       <phone>+55 35 3449 6166</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Fernando Rodrigues de Albuquerque</name>
       <email>fernando.rodrigues@ifsuldeminas.edu.br</email>
       <phone>+55 35 3449 6162</phone>
@@ -51499,8 +51235,6 @@ Caixa Postal 99"</street>
       <phone>+556734102508</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Renato Neto</name>
       <email>renatoneto@ufgd.edu.br</email>
       <phone>+556734102509</phone>
@@ -51891,8 +51625,6 @@ Caixa Postal 99"</street>
       <phone>+55 21 2566-2901</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Igor Vital Rodrigues</name>
       <email>igor.rodrigues@cefet-rj.br</email>
       <phone>+55 21 2566-3073</phone>
@@ -51943,8 +51675,6 @@ Caixa Postal 99"</street>
       <phone>+5551 3308 5050</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Caciano dos Santos Machado</name>
       <email>caciano@cpd.ufrgs.br</email>
       <phone>+5551 3308 5050</phone>
@@ -54655,8 +54385,6 @@ Caixa Postal 99"</street>
       <phone>+5534 3239 4047</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jeziel Oliveira</name>
       <email>jeziel@ufu.br</email>
       <phone>+5534 3239 4297</phone>
@@ -54827,8 +54555,6 @@ Caixa Postal 99"</street>
       <phone>+55 61 2103 2129</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Edim&#xE1;ria Lamounier</name>
       <email>edimaria.lamounier@ifb.edu.br</email>
       <phone>+55 61 2103 2159</phone>
@@ -54924,8 +54650,6 @@ Caixa Postal 99"</street>
       <phone>+55 47 33210429</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Marcos dos Santos de Oliveira</name>
       <email>suporte@furb.br</email>
       <phone>+55 47 33210429</phone>
@@ -55036,8 +54760,6 @@ Caixa Postal 99"</street>
       <phone>55 54 3316 8250</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Fabr&#xED;cio Lorenzon</name>
       <email>lorenzon@upf.br</email>
       <phone>55 54 3316 8250</phone>
@@ -56108,8 +55830,6 @@ Caixa Postal 99"</street>
       <phone>+5522 27375603</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Antonio Guedes Soares Jr</name>
       <email>agsoares@iff.edu.br</email>
       <phone>+5522 27375604</phone>
@@ -56180,8 +55900,6 @@ Caixa Postal 99"</street>
       <phone>+55 62 3521-1253</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>M&#xE1;rio Augusto</name>
       <email>mario@cercomp.ufg.br</email>
       <phone>+55 62 3521-1253</phone>
@@ -56332,8 +56050,6 @@ Caixa Postal 99"</street>
       <phone>(83) 3315-6417</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Felipe Ata&#xED;de</name>
       <email>felipe.albuquerque@insa.gov.br</email>
       <phone>(83) 3315-6480</phone>
@@ -56404,8 +56120,6 @@ Caixa Postal 99"</street>
       <phone>+5569 2182 9615</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Joilson Dantas Siqueira Silva</name>
       <email>joilson.silva@ifro.edu.br</email>
       <phone>+5569 2182 9632</phone>
@@ -56856,8 +56570,6 @@ Caixa Postal 99"</street>
       <phone>(98) 3272 8087</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Le&#xF4;nidas Cipriano Leal Neto</name>
       <email>leonidas.neto@ufma.br</email>
       <phone>(98) 3272 8092</phone>
@@ -57008,8 +56720,6 @@ Caixa Postal 99"</street>
       <phone>+55 11 3091 6480</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Renato Luis Sousa</name>
       <email>rensousa@usp.br</email>
       <phone>+55 11 3091 9788</phone>
@@ -59920,8 +59630,6 @@ Caixa Postal 99"</street>
       <phone>+55 35 3629-1652</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Pablo Marques</name>
       <email>pablo@unifei.edu.br</email>
       <phone>+55 35 3629 1642</phone>
@@ -60312,8 +60020,6 @@ Caixa Postal 99"</street>
       <phone>84 4005-0773</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Carlos Eduardo Gomes do Egito</name>
       <email>eduardo.egito@ifrn.edu.br</email>
       <phone>84 4005-0773</phone>
@@ -60504,8 +60210,6 @@ Caixa Postal 99"</street>
       <phone>55 49 3321 8310</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Lissandro Hoffmeister</name>
       <email>dti@unochapeco.edu.br</email>
       <phone>5549 3321 8310</phone>
@@ -60556,8 +60260,6 @@ Caixa Postal 99"</street>
       <phone>55 21 3938 8121</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Desenvolvimento CISI</name>
       <email>desenv@cisi.coppe.ufrj.br</email>
       <phone>55 21 3938 8124</phone>
@@ -60608,8 +60310,6 @@ Caixa Postal 99"</street>
       <phone>+55 96 3312 1736</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Efraim Morais</name>
       <email>efraim@unifap.br</email>
       <phone>+55 96 3312 1736</phone>
@@ -60660,8 +60360,6 @@ Caixa Postal 99"</street>
       <phone>+55 51 3308 5042</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Edgar J Stello Jr</name>
       <email>stello.junior@ifrs.edu.br</email>
       <phone>+55 54 3449 3375</phone>
@@ -60712,8 +60410,6 @@ Caixa Postal 99"</street>
       <phone>+55 21 2123 1119</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Luiz Dias</name>
       <email>luiz.dias@int.gov.br</email>
       <phone>+55 21 2123 1113</phone>
@@ -60764,8 +60460,6 @@ Caixa Postal 99"</street>
       <phone>+5596 99115 3515</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Daniel Mesquita</name>
       <email>daniel.mesquita@pop-ap.rnp.br</email>
       <phone>+5596 98111 6801</phone>
@@ -60816,8 +60510,6 @@ Caixa Postal 99"</street>
       <phone>+55 83 3216 7898</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Janio Carlos Mesquita Vieira</name>
       <email>janio@sti.ufpb.br</email>
       <phone>+55 83 3216 7898</phone>
@@ -60868,8 +60560,6 @@ Caixa Postal 99"</street>
       <phone>+55 11 3356 7117</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Samuel Werneck</name>
       <email>samuel.werneck@ufabc.edu.br</email>
       <phone>+5511 3356 7130</phone>
@@ -61180,8 +60870,6 @@ Caixa Postal 99"</street>
       <phone>+55 85 9 8121 9711</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Alexandre Barboza</name>
       <email>alexandre.barboza@ifce.edu.br</email>
       <phone>+55 85 3303 1200</phone>
@@ -61332,8 +61020,6 @@ Caixa Postal 99"</street>
       <phone>+5541 3208 6391</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Pedro Rodrigues Torres Jr</name>
       <email>torres@pop-pr.rnp.br</email>
       <phone>+5541 3208 6393</phone>
@@ -61384,8 +61070,6 @@ Caixa Postal 99"</street>
       <phone>+55 73 3680 5216</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Ciro Macedo</name>
       <email>crmacedo@uesc.br</email>
       <phone>+55 73 3680 5039</phone>
@@ -61436,8 +61120,6 @@ Caixa Postal 99"</street>
       <phone>+551131247227</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Victor E.J.S. Vicente</name>
       <email>victor@pucsp.br</email>
       <phone>+551136708036</phone>
@@ -61508,8 +61190,6 @@ Caixa Postal 99"</street>
       <phone>+5583 2101 1442</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Eduardo Jer&#xF4;nimo</name>
       <email>eduardo.jeronimo@pop-pb.rnp.br</email>
       <phone>+5583 2101 1442</phone>
@@ -61560,8 +61240,6 @@ Caixa Postal 99"</street>
       <phone>+553125135117</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Leandro Evangelista Pereira </name>
       <email>leandro.pereira@ifmg.edu.br</email>
       <phone>+5531 2513 5117</phone>
@@ -61612,8 +61290,6 @@ Caixa Postal 99"</street>
       <phone>+55 21 2529 5067</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Rosa Maria Ladeira</name>
       <email>rosa@impa.br</email>
       <phone>+55 21 2529 5062</phone>
@@ -61664,22 +61340,16 @@ Caixa Postal 99"</street>
       <phone>+55 5532574107</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Denis Pohlmann Gon&#xE7;alves</name>
       <email>denis.goncalves@iffarroupilha.edu.br</email>
       <phone>+55 5532574107</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Jos&#xE9; Lopes Hipp</name>
       <email>jose.hipp@iffarroupilha.edu.br</email>
       <phone>+55 5532189825</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Thiago da Silva Weingartner</name>
       <email>dti@iffarroupilha.edu.br</email>
       <phone>+55 5532189826</phone>
@@ -61750,8 +61420,6 @@ Caixa Postal 99"</street>
       <phone>+55 43 3371 4534</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Leonardo Pinheiro</name>
       <email>leonardo@uel.br</email>
       <phone>+55 43 3371 4944</phone>
@@ -62082,8 +61750,6 @@ Caixa Postal 99"</street>
       <phone>86 32110459</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Ronan Oliveira</name>
       <email>ronan.oliveira@pop-pi.rnp.br</email>
       <phone>86 32110459</phone>
@@ -62134,8 +61800,6 @@ Caixa Postal 99"</street>
       <phone>+55(95) 3621-3172</phone>
       <type>1</type>
       <privacy>1</privacy>
-    </contact>
-    <contact>
       <name>Yaritza Barreto</name>
       <email>yaritza.barreto@ufrr.br</email>
       <phone>+55(95) 3621-3172</phone>
