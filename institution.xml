@@ -2855,8 +2855,8 @@
       <name> </name>
       <email> </email>
       <phone> </phone>
-      <type> </type>
-      <privacy> </privacy>
+      <type>0</type>
+      <privacy>0</privacy>
     </contact>
     <info_URL lang="br">http://www.eduroam.br</info_URL>
     <policy_URL lang="en">http://www.eduroam.br</policy_URL>
@@ -38221,8 +38221,8 @@ Caixa Postal 99"</street>
       <name> </name>
       <email> </email>
       <phone> </phone>
-      <type> </type>
-      <privacy> </privacy>
+      <type>0</type>
+      <privacy>0</privacy>
     </contact>
     <info_URL lang="br">http://www.eduroam.br</info_URL>
     <info_URL lang="en">http://www.eduroam.br</info_URL>
