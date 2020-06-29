@@ -13,19 +13,33 @@
       <street lang="en">Setor Banc&#xE1;rio Norte, Quadra 2, Bloco L, Lote 06</street>
       <city lang="en">Bras&#xED;lia</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates>-43.35851173,-21.79363352</coordinates>
     <inst_type/>
     <contact>
       <name>a</name>
       <email>a@a</email>
-      <phone>+11 (11) 1111-1111,+11 (11) 11111-1111</phone>
+      <phone>p:+11 (11) 1111-1111,c:+11 (11) 11111-1111</phone>
+      <type>1</type>
+      <privacy>1</privacy>
+    </contact>
+    <contact>
+      <name>b</name>
+      <email>b@b</email>
+      <phone>p:+22 (22) 2222-2222</phone>
+      <type>1</type>
+      <privacy>1</privacy>
+    </contact>
+    <contact>
+      <name>c</name>
+      <email>c@c</email>
+      <phone>c:+33 (33) 33333-3333</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <info_URL lang="br">http://capes.gov.br</info_URL>
     <info_URL lang="en">http://capes.gov.br</info_URL>
     <policy_URL lang="en">http://www.eduroam.br</policy_URL>
-    <ts>2020-06-29T02:58:57Z</ts>
+    <ts>2020-06-29T13:16:19Z</ts>
   </institution>
   <institution>
     <instid>10415</instid>
@@ -39,19 +53,19 @@
       <street lang="en">Av. Gen. Rodrigo Oct&#xE1;vio J. Ramos, 6200, Setor Norte &#x2013; CPD</street>
       <city lang="en">Manaus/AM</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Lindomar Santos</name>
       <email>lindomar.santos@pop-am.rnp.br</email>
-      <phone>+5592 3305 1181 R204</phone>
+      <phone>p:+5592 3305 1181 R204</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Gilvan Reis</name>
       <email>gilvan.reis@pop-am.rnp.br</email>
-      <phone>+5592 3305 1181 R204</phone>
+      <phone>p:+5592 3305 1181 R204</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -91,12 +105,12 @@
       <street lang="en">Praia de Botafogo 190</street>
       <city lang="en">Rio de Janeiro</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Iuri Ferreira</name>
       <email>iuri.ferreira@fgv.br</email>
-      <phone>(21)3799-6542</phone>
+      <phone>p:(21)3799-6542</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -396,19 +410,19 @@
       <street lang="en">Av. Independ&#xEA;ncia, 2293</street>
       <city lang="en">Santa Cruz do Sul</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Cristiando Pereira</name>
       <email>redes@unisc.br</email>
-      <phone>+5551 37177420</phone>
+      <phone>p:+5551 37177420</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Marco Ferreira</name>
       <email>redes@unisc.br</email>
-      <phone>+5551 37177420</phone>
+      <phone>p:+5551 37177420</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -1248,19 +1262,19 @@
       <street lang="en">BR 364 Km 9,5, Porto Velho</street>
       <city lang="en">Rond&#xF4;nia</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Gelson Barros Cardoso</name>
       <email>gelson.cardoso@unir.br</email>
-      <phone>+55 21 2182-2177</phone>
+      <phone>p:+55 21 2182-2177</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>F&#xE1;bio Leite Dias</name>
       <email>fabioleite@unir.br</email>
-      <phone>+55 21 2182-2177</phone>
+      <phone>p:+55 21 2182-2177</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -2440,19 +2454,19 @@
       <street lang="en">Avenida Madre Benvenuta, 2007</street>
       <city lang="en">Florian&#xF3;polis/SC</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Dorian Amorim</name>
       <email>dorian.amorim@udesc.br</email>
-      <phone>+55 48 3664 8133</phone>
+      <phone>p:+55 48 3664 8133</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Henrique de Camargo Carlos</name>
       <email>henrique.carlos@udesc.br</email>
-      <phone>+55 48 3664 7950</phone>
+      <phone>p:+55 48 3664 7950</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -2772,19 +2786,19 @@
       <street lang="en">Av BPS, 1303 </street>
       <city lang="en">Itajub&#xE1;</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Pablo Marques de Oliveira </name>
       <email>pablo@unifei.edu.br</email>
-      <phone>55 35 3629 1642</phone>
+      <phone>p:55 35 3629 1642</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jos&#xE9; Everaldo Campos</name>
       <email>everaldo@unifei.edu.br</email>
-      <phone>55 35 3629 1015</phone>
+      <phone>p:55 35 3629 1015</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -2824,7 +2838,7 @@
       <street lang="en">Av. Ipiranga, 6681  Predio 91A</street>
       <city lang="en">Porto Alegre - RS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name> </name>
@@ -2870,12 +2884,12 @@
       <street lang="en">Campus Universit&#xE1;rio Darcy Ribeiro, UnB</street>
       <city lang="en">Bras&#xED;lia - DF</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Dion&#xED;sio Munir Miziara J&#xFA;nior</name>
       <email>dionisiojr@unb.br</email>
-      <phone>+55 61 3107-0035</phone>
+      <phone>p:+55 61 3107-0035</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -2915,19 +2929,19 @@
       <street lang="en">Avenida da Aboli&#xE7;&#xE3;o, 3</street>
       <city lang="en">Reden&#xE7;&#xE3;o - CE</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Michel Machado</name>
       <email>michel.machado@unilab.edu.br</email>
-      <phone>+55 85 3332 6138</phone>
+      <phone>p:+55 85 3332 6138</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jo&#xE3;o Paulo Feitosa</name>
       <email>joaopaulo@unilab.edu.br</email>
-      <phone>+55 85 3332 6138</phone>
+      <phone>p:+55 85 3332 6138</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -3007,19 +3021,19 @@
       <street lang="en">Rua do Com&#xE9;rcio, 3000, bairro Universit&#xE1;rio</street>
       <city lang="en">Iju&#xED; - RS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Dionei Fabio Buske</name>
       <email>dionei@unijui.edu.br</email>
-      <phone>+55 55 3332 0366</phone>
+      <phone>p:+55 55 3332 0366</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Maiquel Fridhein</name>
       <email>maiquel@unijui.edu.br</email>
-      <phone>+55 55 3332 0370</phone>
+      <phone>p:+55 55 3332 0370</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -3879,19 +3893,19 @@
       <street lang="en">Av. Araujo Pinho n&#xBA; 39, Canela</street>
       <city lang="en">Salvador / BA</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Reinaldo Fonseca da Costa</name>
       <email>reinaldocosta@ifba.edu.br</email>
-      <phone>+5571 2102 0406</phone>
+      <phone>p:+5571 2102 0406</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Marcelo do Espirito Santo Sousa</name>
       <email>marcelosousa@ifba.edu.br</email>
-      <phone>+5571 2102 0409</phone>
+      <phone>p:+5571 2102 0409</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -3931,19 +3945,19 @@
       <street lang="en">Rua Frei Paulino, 30</street>
       <city lang="en">Uberaba - MG</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Jihann Fernandes</name>
       <email>jihann.fernandes@uftm.edu.br</email>
-      <phone>+55 34 3700 6432</phone>
+      <phone>p:+55 34 3700 6432</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Humberto Parreira</name>
       <email>humberto.parreira@uftm.edu.br</email>
-      <phone>+55 34 3700 6401</phone>
+      <phone>p:+55 34 3700 6401</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -4503,19 +4517,19 @@
       <street lang="en">Avenida Senador Filinto Muller, 953</street>
       <city lang="en">Cuiab&#xE1;</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Clayton Ricardo Franceschetto</name>
       <email>clayton.franceschetto@ifmt.edu.br</email>
-      <phone>55 65 36164160</phone>
+      <phone>p:55 65 36164160</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Rodrigo Pacheco Guedes</name>
       <email>rodrigo.guedes@ifmt.edu.br</email>
-      <phone>55 65 63164104</phone>
+      <phone>p:55 65 63164104</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -4916,19 +4930,19 @@ Caixa Postal 99"</street>
       <street lang="en">Cidade Universit&#xE1;ria - Universit&#xE1;rio</street>
       <city lang="en">Campo Grande</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Lucas Menezes Fermino</name>
       <email>lucas.fermino@ufms.br</email>
-      <phone>+5567 3345 7298</phone>
+      <phone>p:+5567 3345 7298</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Pericles Christian Moraes Lopes</name>
       <email>pericles.lopes@ufms.br</email>
-      <phone>+5567 3345 7234</phone>
+      <phone>p:+5567 3345 7234</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -5088,19 +5102,19 @@ Caixa Postal 99"</street>
       <street lang="en">Cidade Universit&#xE1;ria - Universit&#xE1;rio - CEP 79070-893, Campo Grande</street>
       <city lang="en">Campo Grande/MS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Aroldo Tavares Coimbra</name>
       <email>aroldo.coimbra@ufms.br</email>
-      <phone>067 3345 7299</phone>
+      <phone>p:067 3345 7299</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>P&#xE9;ricles Christian</name>
       <email>suporte.nti@ufms.br</email>
-      <phone>067 3345 7292</phone>
+      <phone>p:067 3345 7292</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -5400,19 +5414,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Augusto Corr&#xEA;a, 01 - Guam&#xE1;</street>
       <city lang="en">Bel&#xE9;m</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>R&#xF4;mulo Pinto de Albuquerque</name>
       <email>albuquerque@ufpa.br</email>
-      <phone>+55 91 3201-7391</phone>
+      <phone>p:+55 91 3201-7391</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Hugo Pereira Kuribayashi</name>
       <email>hugo@ufpa.br</email>
-      <phone>+55 91 3201-7391</phone>
+      <phone>p:+55 91 3201-7391</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -6072,19 +6086,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Fernando Machado 108, Centro</street>
       <city lang="en">Chapec&#xF3;</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Claunir Pavan</name>
       <email>claunir.pavan@uffs.edu.br</email>
-      <phone>+55 49 2049-2650</phone>
+      <phone>p:+55 49 2049-2650</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Neimar Assmann</name>
       <email>neimar.assmann@uffs.edu.br</email>
-      <phone>+55 49 2049-2630</phone>
+      <phone>p:+55 49 2049-2630</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -6264,19 +6278,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Esmeralda, 430</street>
       <city lang="en">Santa Maria/RS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Everton Fava</name>
       <email>everton.fava@iffarroupilha.edu.br</email>
-      <phone>+5555 3218 9825</phone>
+      <phone>p:+5555 3218 9825</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Thiago Sonnenstrahl</name>
       <email>thiago.sonnenstrahl@iffarroupilha.edu.br</email>
-      <phone>+5555 3218 9826</phone>
+      <phone>p:+5555 3218 9826</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -6316,19 +6330,19 @@ Caixa Postal 99"</street>
       <street lang="en">Quadra 310 Su, Lo 5, s/n - Plano Diretor Sul</street>
       <city lang="en">Palmas - TO</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Isa&#xFA; Soares de Medeiros</name>
       <email>isaumedeiros@ifto.edu.br</email>
-      <phone>63 98439-6638</phone>
+      <phone>p:63 98439-6638</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Madson Oliveira</name>
       <email>madsonoliveira@ifto.edu.br</email>
-      <phone>63 99231-2225</phone>
+      <phone>p:63 99231-2225</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -6368,19 +6382,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Quirino de Andrade, 215</street>
       <city lang="en">S&#xE3;o Paulo</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Edson Senne</name>
       <email>elfsenne@unesp.br</email>
-      <phone>+55 11 5627-0414</phone>
+      <phone>p:+55 11 5627-0414</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jessian Cavalcanti</name>
       <email>jessian@unesp.br</email>
-      <phone>+55 11 5627-0572</phone>
+      <phone>p:+55 11 5627-0572</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -16540,19 +16554,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Get&#xFA;lio Vargas, 333 &#x2013; Quitandinha</street>
       <city lang="en">Petr&#xF3;polis</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>F&#xE1;bio Borges de Oliveira</name>
       <email>borges@lncc.br</email>
-      <phone>2422336025</phone>
+      <phone>p:2422336025</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Bruno Alves Fagundes</name>
       <email>brunoaf@lncc.br</email>
-      <phone>2422336206</phone>
+      <phone>p:2422336206</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -16592,19 +16606,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Professor Jos&#xE9; Seabra, S/N - Centro</street>
       <city lang="en">Barreiras - BA</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Cleyton Martins Sena</name>
       <email>cleyton.sena@ufob.edu.br</email>
-      <phone>+55 77 3611 3564</phone>
+      <phone>p:+55 77 3611 3564</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Luiz Hil&#xE1;rio Ferreira Damascena</name>
       <email>luiz.damascena@ufob.edu.br</email>
-      <phone>+55 21 3611 3564</phone>
+      <phone>p:+55 21 3611 3564</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -16744,19 +16758,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Giuseppe Maximo Scolfaro, 10.000</street>
       <city lang="en">Campinas</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Filipe Martins</name>
       <email>filipe.martins@cnpem.br</email>
-      <phone>+5519 3512 1077</phone>
+      <phone>p:+5519 3512 1077</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Dennis Campos</name>
       <email>dennis.campos@cnpem.br</email>
-      <phone>+5519 3512 1078</phone>
+      <phone>p:+5519 3512 1078</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -17876,19 +17890,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Melo Moraes, 354, Centro</street>
       <city lang="en">Macei&#xF3;</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Ayslan Correia</name>
       <email>ayslan.correia@fapeal.br</email>
-      <phone>558233152200</phone>
+      <phone>p:558233152200</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Fernando Souza</name>
       <email>fernando.souza@fapeal.br</email>
-      <phone>558233152200</phone>
+      <phone>p:558233152200</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -17927,19 +17941,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Ipiranga, 6681</street>
       <city lang="en">Porto Alegre</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Luiz Fernando Yoshiga</name>
       <email>luiz.yoshiga@pucrs.br</email>
-      <phone>+5551 3320-3511</phone>
+      <phone>p:+5551 3320-3511</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Rogerio Machado Xavier</name>
       <email>rogerio.xavier@pucrs.br</email>
-      <phone>+5551 3320-3511</phone>
+      <phone>p:+5551 3320-3511</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -18559,19 +18573,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Tupy Silveira 2099</street>
       <city lang="en">Bag&#xE9; - RS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Sergio Lackmann</name>
       <email>sergiolackmann@urcamp.edu.br</email>
-      <phone>+55 53 999 753035</phone>
+      <phone>p:+55 53 999 753035</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Paulo Henrique</name>
       <email>paulohenrique@urcamp.edu.br</email>
-      <phone>+55 53 999 411380</phone>
+      <phone>p:+55 53 999 411380</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -18611,19 +18625,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Colombo, 5790</street>
       <city lang="en">Maring&#xE1; &#x2013; PR</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>H&#xE9;lcio do Prado</name>
       <email>hprado@uem.br</email>
-      <phone>+55 (44) 3011-4440</phone>
+      <phone>p:+55 (44) 3011-4440</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Antonio da Silva Martins</name>
       <email>asmartins@uem.br</email>
-      <phone>+55 44 3011-4015</phone>
+      <phone>p:+55 44 3011-4015</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -18663,19 +18677,19 @@ Caixa Postal 99"</street>
       <street lang="en">Campus Universit&#xE1;rio Reitor Jo&#xE3;o David Ferreira Lima - Trindade</street>
       <city lang="en">Florian&#xF3;polis</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Guilherme Arthur Geronimo</name>
       <email>guilherme.geronimo@ufsc.br</email>
-      <phone>+55 48 3721-6339</phone>
+      <phone>p:+55 48 3721-6339</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Gustavo Pereira Mateus</name>
       <email>gustavo.mateus@ufsc.br</email>
-      <phone>+55 48 3721-6346</phone>
+      <phone>p:+55 48 3721-6346</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -19155,19 +19169,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Jos&#xE9; de S&#xE1; Mani&#xE7;oba, S/N, Centro, Petrolina-PE</street>
       <city lang="en">Petrolina-PE</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Andrey Tavares da Silva</name>
       <email>andreu.tavares@univasf.edu.br</email>
-      <phone>+55 87 2101-6809</phone>
+      <phone>p:+55 87 2101-6809</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Augusto C&#xE9;sar Ribeiro da Silva</name>
       <email>augusto.silva@univasf.edu.br</email>
-      <phone>+55 87 2101-6815</phone>
+      <phone>p:+55 87 2101-6815</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -20467,19 +20481,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Avelino Talini, 171 Pr&#xE9;dio 9, Sala 416</street>
       <city lang="en">Lajeado</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Tiago Giovanaz da Silva</name>
       <email>tgs@univates.br</email>
-      <phone>+55 51 3714 7000</phone>
+      <phone>p:+55 51 3714 7000</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Equipe de redes</name>
       <email>redes@univates.br</email>
-      <phone>+55 51 3714 7040</phone>
+      <phone>p:+55 51 3714 7040</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -21059,19 +21073,19 @@ Caixa Postal 99"</street>
       <street lang="en">Setor Banc&#xE1;rio Sul, Quadra 2, Bloco F, Edif&#xED;cio FNDE </street>
       <city lang="en">Bras&#xED;lia-DF</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Gess&#xE9; Ramalho dos Santos</name>
       <email>gesse.santos@fnde.gov.br</email>
-      <phone>+55 61 20224374</phone>
+      <phone>p:+55 61 20224374</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Lourival Naves de Carvalho</name>
       <email>lourival.carvalho@fnde.gov. br</email>
-      <phone>+55 21 20224007</phone>
+      <phone>p:+55 21 20224007</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -21111,19 +21125,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Jo&#xE3;o Paulo 2, n&#xBA; 514</street>
       <city lang="en">Bel&#xE9;m</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Anderson Almeida</name>
       <email>anderson.almeida@ifpa.edu.br</email>
-      <phone>91 3342-0594</phone>
+      <phone>p:91 3342-0594</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Nayguron Henrique</name>
       <email>nayguron.henrique@ifpa.edu.br</email>
-      <phone>91 3342-0594</phone>
+      <phone>p:91 3342-0594</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -21163,19 +21177,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Doutor Sylvio Menicucci, 1001 - Kennedy, Lavras - MG, 37200-000</street>
       <city lang="en">Lavras</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Jo&#xE3;o Paviani</name>
       <email>joao.paviani@dgti.ufla.br</email>
-      <phone>+553532424395</phone>
+      <phone>p:+553532424395</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Marcos Alexandre dos Santos</name>
       <email>marcos@dgti.ufla.br</email>
-      <phone>+553521422075</phone>
+      <phone>p:+553521422075</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -22315,19 +22329,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua S&#xE3;o Francisco Xavier, 524 &#x2013; Maracan&#xE3;</street>
       <city lang="en">Rio de Janeiro</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Marcos Selecto</name>
       <email>mselecto@uerj.br</email>
-      <phone>+55 21 2334 0340</phone>
+      <phone>p:+55 21 2334 0340</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Rodrigo Rodrigues</name>
       <email>rodrigo.rodrigues@uerj.br</email>
-      <phone>+55 21 2334 0340</phone>
+      <phone>p:+55 21 2334 0340</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -22367,19 +22381,19 @@ Caixa Postal 99"</street>
       <street lang="en">Estrada Dona Castorina, 110</street>
       <city lang="en">Rio de Janeiro</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rosa Ladeira</name>
       <email>rosa@impa.br</email>
-      <phone>+55 21 2529 5062</phone>
+      <phone>p:+55 21 2529 5062</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Manoel Prazeres</name>
       <email>prazeres@impa.br</email>
-      <phone>+55 21 2529 5061</phone>
+      <phone>p:+55 21 2529 5061</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -22419,19 +22433,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Francisco Mota, 572</street>
       <city lang="en">Mossor&#xF3;/RN</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Igor Saraiva Brasil</name>
       <email>igor.brasil@ufersa.edu.br</email>
-      <phone>(84) 3317-8243</phone>
+      <phone>p:(84) 3317-8243</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Marcelo Carlos de Araujo</name>
       <email>marcelo.araujo@ufersa.edu.br </email>
-      <phone>(84) 3317-8243</phone>
+      <phone>p:(84) 3317-8243</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -22531,19 +22545,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Presidente J&#xE2;nio Quadros, 330 - Santa Isabel</street>
       <city lang="en">Teresina/PI</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Paulo Alex</name>
       <email>pauloalex.maranhao@ifpi.edu.br</email>
-      <phone>(86) 3131.1414 [Rama</phone>
+      <phone>p:(86) 3131.1414 [Rama</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Eduilson</name>
       <email>eduilson@ifpi.edu.br</email>
-      <phone>(86) 99402.9966</phone>
+      <phone>p:(86) 99402.9966</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -22704,19 +22718,19 @@ Caixa Postal 99"</street>
       <street lang="en">Quadra 109 Norte, Avenida NS-15, ALCNO-14Plano Diretor Norte</street>
       <city lang="en">Palmas/TO</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Aislan Max Gomes Coelho</name>
       <email>aislan@uft.edu.br</email>
-      <phone>+5563 3232 8578</phone>
+      <phone>p:+5563 3232 8578</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Juliano Alves Rios</name>
       <email>julianorios@uft.edu.br</email>
-      <phone>+5563 3232 8034</phone>
+      <phone>p:+5563 3232 8034</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -23336,19 +23350,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Floriano Peixoto, 295</street>
       <city lang="en">Petr&#xF3;polis</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Cyronky Queiroz Pimentel</name>
       <email>cyronky@laureate.com.br</email>
-      <phone>+55 84 98866 0713</phone>
+      <phone>p:+55 84 98866 0713</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Ranyere Maia Alves</name>
       <email>ranyeremaia@laureate.com.br</email>
-      <phone>+55 84 99116 6575</phone>
+      <phone>p:+55 84 99116 6575</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -23468,19 +23482,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Fernando Ferrari, 514, Goiabeiras</street>
       <city lang="en">Vit&#xF3;ria - ES</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Hans Schneebeli </name>
       <email>diretor.geral@npd.ufes.br</email>
-      <phone>(27) 4009-2320</phone>
+      <phone>p:(27) 4009-2320</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Renan Teixeira</name>
       <email>diretor.administrativo@npd.ufes.br</email>
-      <phone>(27) 4009-2320</phone>
+      <phone>p:(27) 4009-2320</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -23720,26 +23734,26 @@ Caixa Postal 99"</street>
       <street lang="en">Av Rio Branco, 50, Santa Lucia</street>
       <city lang="en">Vit&#xF3;ria/Esp&#xED;rito Santo</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Renan Freitas De Almeida</name>
       <email>ralmeida@ifes.edu.br</email>
-      <phone>+55 27 3357 7511</phone>
+      <phone>p:+55 27 3357 7511</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Gelinton Pablo Mariano </name>
       <email>gelinton.mariano@ifes.edu.br</email>
-      <phone>+55 27 3357 7549</phone>
+      <phone>p:+55 27 3357 7549</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Stefano Terci Gasperazzo </name>
       <email>stefano@ifes.edu.br</email>
-      <phone>+5527 3357 7549</phone>
+      <phone>p:+5527 3357 7549</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -23879,19 +23893,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua das Miss&#xF5;es, 100</street>
       <city lang="en">Blumenau/SC</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Marcos Malfatti</name>
       <email>dti@ifc.edu.br</email>
-      <phone>+5547 3331 7846</phone>
+      <phone>p:+5547 3331 7846</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Renato Muniz</name>
       <email>suporte@ifc.edu.br</email>
-      <phone>+5547 3331 7808</phone>
+      <phone>p:+5547 3331 7808</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -24231,12 +24245,12 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Diogo de Vasconcelos, 122. Pilar</street>
       <city lang="en">Ouro Preto</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Daniel Magalh&#xE3;es Bicalho</name>
       <email>daniel.bicalho@nti.ufop.br</email>
-      <phone>031 35591432</phone>
+      <phone>p:031 35591432</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -24316,19 +24330,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida General Carlos Cavalcanti, 4748</street>
       <city lang="en">Ponta Grossa</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Luiz Gustavo Barros</name>
       <email>gustavo@uepg.br</email>
-      <phone>'+5542 32203407</phone>
+      <phone>p:'+5542 32203407</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Rafael Afonso Mayer</name>
       <email>rafaelmayer@uepg.br</email>
-      <phone>'+5542 32203416</phone>
+      <phone>p:'+5542 32203416</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -24648,12 +24662,12 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Miguel de Frias, 9, Icara&#xED;</street>
       <city lang="en">Niter&#xF3;i</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Cosme Corr&#xEA;a </name>
       <email>cosmefc@id.uff.br</email>
-      <phone>+55 21 2629-2053 </phone>
+      <phone>p:+55 21 2629-2053 </phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -25073,7 +25087,7 @@ Caixa Postal 99"</street>
       <street lang="en">Rod. Washington Lu&#xED;s km 235 &#x2013; SP-310</street>
       <city lang="en">S&#xE3;o Carlos/SP</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Help Desk - SIn</name>
@@ -27336,19 +27350,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. dos Portugueses, 1966, s/n</street>
       <city lang="en">S&#xE3;o Lu&#xED;s, Maranh&#xE3;o</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rodrigo Azevedo</name>
       <email>rodrigo.azevedo@rnp.br</email>
-      <phone>+5521 2102 4106</phone>
+      <phone>p:+5521 2102 4106</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Diego Reis</name>
       <email>diego.reis@rnp.br</email>
-      <phone>+5561 3242 4395</phone>
+      <phone>p:+5561 3242 4395</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -27728,19 +27742,19 @@ Caixa Postal 99"</street>
       <street lang="en">Pra&#xE7;a Montevid&#xE9;o, 10</street>
       <city lang="en">Rio Grande do Sul</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Jose Ricardo Flores</name>
       <email>flores@procempa.com.br</email>
-      <phone>+55 51 3289-6264</phone>
+      <phone>p:+55 51 3289-6264</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Adriano Ramos Goncalves</name>
       <email>arg@procempa.com.br</email>
-      <phone>+55 51 3289-6264</phone>
+      <phone>p:+55 51 3289-6264</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -27860,19 +27874,19 @@ Caixa Postal 99"</street>
       <street lang="en">Pra&#xE7;a Frei Orlando, 170, Centro</street>
       <city lang="en">S&#xE3;o Jo&#xE3;o del Rei / MG</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Alex Vitorino</name>
       <email>alexvitorino@ufsj.edu.br</email>
-      <phone>+5532991813740</phone>
+      <phone>p:+5532991813740</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Ubirajara Ces&#xE1;rio</name>
       <email>bira@ufsj.edu.br</email>
-      <phone>+5532991813740</phone>
+      <phone>p:+5532991813740</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -27912,19 +27926,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Dr. Silas Munguba, 1700 - Serrinha</street>
       <city lang="en">Fortaleza/CE</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Ivonildo Ribeiro</name>
       <email>ivonildo.ribeiro@uece.br</email>
-      <phone>+55 85 3101-9998</phone>
+      <phone>p:+55 85 3101-9998</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Thiago Everton</name>
       <email>thiago.everton@uece.br</email>
-      <phone>+55 85 3101-9998</phone>
+      <phone>p:+55 85 3101-9998</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -28104,19 +28118,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Brasil, 4365 - Quinino sala 303</street>
       <city lang="en">Rio de Janeiro</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Thiago da Fonseca Carelli</name>
       <email>thiago.carelli@fiocruz.br</email>
-      <phone>21 3885-1773</phone>
+      <phone>p:21 3885-1773</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Felipe Paiva de Castro</name>
       <email>felipe.castro@fiocruz.br</email>
-      <phone>21 3836-1134</phone>
+      <phone>p:21 3836-1134</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -28156,19 +28170,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Silveira Martins, 2555</street>
       <city lang="en">Salvador/BA</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Elcio Lins</name>
       <email>elins@uneb.br</email>
-      <phone>+5571 3117-2360</phone>
+      <phone>p:+5571 3117-2360</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Paulo Celso Bandeira</name>
       <email>pcbandeira@uneb.br</email>
-      <phone>+5571 3117-2447</phone>
+      <phone>p:+5571 3117-2447</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -28208,33 +28222,33 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Professor Luciano Gualberto, travessa 3, n&#xBA; 71, sala 312</street>
       <city lang="en">S&#xE3;o Paulo/SP</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rog&#xE9;rio Herrera Mendon&#xE7;a</name>
       <email>rogerio.herrera@pop-sp.rnp.br</email>
-      <phone>55 11 2648 1381</phone>
+      <phone>p:55 11 2648 1381</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Valter Pereira</name>
       <email>valter.pereira@pop-sp.rnp.br</email>
-      <phone>55 11 3091 1829</phone>
+      <phone>p:55 11 3091 1829</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Matheus&#xA0;Nascimento de Camargo</name>
       <email>matheus.camargo@pop-sp.rnp.br</email>
-      <phone>55 11 3091 9799</phone>
+      <phone>p:55 11 3091 9799</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Amauri Benedito da Silva</name>
       <email>amauri.silva@pop-sp.rnp.br</email>
-      <phone>55 11 3091 8901</phone>
+      <phone>p:55 11 3091 8901</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -28274,19 +28288,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av.Senador At&#xED;lio Fontana. 591-E, Efapi.</street>
       <city lang="en">Chapec&#xF3;-SC</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Maikel Schmidt</name>
       <email>redes@unochapeco.edu.br</email>
-      <phone>+554933218310</phone>
+      <phone>p:+554933218310</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jhony Maiky Maseto</name>
       <email>redes@unochapeco.edu.br</email>
-      <phone>+554933218310</phone>
+      <phone>p:+554933218310</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -28326,12 +28340,12 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Gen. Rodrigo Oct&#xE1;vio J. Ramos, 6200, Setor Norte</street>
       <city lang="en">Manaus &#x2013; AM</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Vanderson da Silva Rocha</name>
       <email>vanderson@ufam.edu.br</email>
-      <phone>+5592 3305 1195</phone>
+      <phone>p:+5592 3305 1195</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -30571,19 +30585,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av.Senador At&#xED;lio Fontana. 591-E, Efapi.</street>
       <city lang="en">Chapec&#xF3; -SC</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Maikel Schmidt</name>
       <email>maikel@unochapeco.edu.br</email>
-      <phone>+5549 33218310</phone>
+      <phone>p:+5549 33218310</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jhony Maiky Maseto</name>
       <email>jhony@unochapeco.edu.br</email>
-      <phone>+5549 33218310</phone>
+      <phone>p:+5549 33218310</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -30623,19 +30637,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Bara&#xFA;nas, 351</street>
       <city lang="en">Campina Grande</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Dannylo Wanderley</name>
       <email>dannylo@uepb.edu.br</email>
-      <phone>+55 83 3315 3367</phone>
+      <phone>p:+55 83 3315 3367</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Thiago N&#xF3;brega</name>
       <email>thiagonobrega@uepb.edu.br</email>
-      <phone>+55 83 3315 3367</phone>
+      <phone>p:+55 83 3315 3367</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -31375,19 +31389,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Professor Doutor Euryclides de Jesus Zerbini, 1.546 Parque das Universidades</street>
       <city lang="en">Campinas - SP</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Paulo Mota</name>
       <email>paulo.mota@puc-campinas.edu.br</email>
-      <phone>+5519 3343-7154</phone>
+      <phone>p:+5519 3343-7154</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Leonardo Senra</name>
       <email>leonardo.senra@puc-campinas.edu.br</email>
-      <phone>+5519 3343-7454</phone>
+      <phone>p:+5519 3343-7454</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -32287,19 +32301,19 @@ Caixa Postal 99"</street>
       <street lang="en">Centro de Conviv&#xEA;ncia &#x2013; Campus UFRN</street>
       <city lang="en">Natal/RN</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Thiago Souza</name>
       <email>thiago.souza@pop-rn.rnp.br</email>
-      <phone>+5584 3242 2294</phone>
+      <phone>p:+5584 3242 2294</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Kleydson Cunha</name>
       <email>Kleydson.cunha@pop-rn.rnp.br</email>
-      <phone>+5584 3242 2294</phone>
+      <phone>p:+5584 3242 2294</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -32339,19 +32353,19 @@ Caixa Postal 99"</street>
       <street lang="en">Cidade Universit&#xE1;ria Paulo VI &#x2013; Caixa Postal 09</street>
       <city lang="en">S&#xE3;o Lu&#xED;s</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rafael Cruz</name>
       <email>rafaelcruz@proinfra.uema.br</email>
-      <phone>+55 98 2106 8200</phone>
+      <phone>p:+55 98 2106 8200</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Lu&#xED;s Carlos Fonseca</name>
       <email>luiscarlos@uema.br</email>
-      <phone>+55 98 2106 8200</phone>
+      <phone>p:+55 98 2106 8200</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -32571,19 +32585,19 @@ Caixa Postal 99"</street>
       <street lang="en">Cidade Universit&#xE1;ria - Universit&#xE1;rio - CEP 79070-893</street>
       <city lang="en">Campo Grande/MS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Aroldo Tavares Coimbra</name>
       <email>aroldo.coimbra@ufms.br</email>
-      <phone>067 3345 7299</phone>
+      <phone>p:067 3345 7299</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>P&#xE9;ricles Christian</name>
       <email>suporte.nti@ufms.br</email>
-      <phone>067 3345 7292</phone>
+      <phone>p:067 3345 7292</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -32883,19 +32897,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Professor Luiz Freire, 700, B-21</street>
       <city lang="en">Recife/PE</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rodrigo Brayner</name>
       <email>rodrigo.brayner@pop-pe.rnp.br</email>
-      <phone>+55 81 3183 4305</phone>
+      <phone>p:+55 81 3183 4305</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Zuleika Ten&#xF3;rio</name>
       <email>zuleika.tenorio@pop-pe.rnp.br</email>
-      <phone>+55 81 3183 4305</phone>
+      <phone>p:+55 81 3183 4305</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -32935,19 +32949,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av Tupy Silveira 2099</street>
       <city lang="en">Rio Grande do Sul</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>S&#xE9;rgio Lackmann</name>
       <email>sergiolackmann@urcamp.edu.br</email>
-      <phone>55 53 999753035</phone>
+      <phone>p:55 53 999753035</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Paulo Henrique Seixas Leite</name>
       <email>paulohenrique@urcamp.edu.br</email>
-      <phone>55 53 999411380</phone>
+      <phone>p:55 53 999411380</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -32987,19 +33001,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rod. Raposo Tavares km 92,5  S/N - Vila Artura</street>
       <city lang="en">Sorocaba - S&#xE3;o Paulo</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>William Oliveira</name>
       <email>william.oliveira@uniso.br</email>
-      <phone>'+5515 21017067</phone>
+      <phone>p:'+5515 21017067</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Elidan Pontes</name>
       <email>elidan.pontes@uniso.br</email>
-      <phone>'+5515 21017067</phone>
+      <phone>p:'+5515 21017067</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -33039,19 +33053,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Assis Chateaubriand, 1.658, Setor Oeste</street>
       <city lang="en">Goi&#xE2;nia/GO</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Douglas Rolins de Santana</name>
       <email>douglas.santana@ifg.edu.br</email>
-      <phone>+556236122241</phone>
+      <phone>p:+556236122241</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Roberval Lustosa de Aguiar Filho</name>
       <email>roberval.filho@ifg.edu.br</email>
-      <phone>+556236122266</phone>
+      <phone>p:+556236122266</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -33391,19 +33405,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida da Aboli&#xE7;&#xE3;o, 3</street>
       <city lang="en">Reden&#xE7;&#xE3;o - CE</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Michel Machado</name>
       <email>michel.machado@unilab.edu.br</email>
-      <phone>+55 85 3332 6138</phone>
+      <phone>p:+55 85 3332 6138</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jo&#xE3;o Paulo Feitosa</name>
       <email>joaopaulo@unilab.edu.br</email>
-      <phone>+55 85 3332 6138</phone>
+      <phone>p:+55 85 3332 6138</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -33483,19 +33497,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Augusto Corr&#xEA;a, 1</street>
       <city lang="en">Bel&#xE9;m</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Jo&#xE3;o Salvatti</name>
       <email>salvatti@ufpa.br</email>
-      <phone>+5591 3201-7803</phone>
+      <phone>p:+5591 3201-7803</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Marcelo Moraes</name>
       <email>marcelo@ufpa.br</email>
-      <phone>+5591 3201-7803</phone>
+      <phone>p:+5591 3201-7803</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -34875,19 +34889,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Rio Branco,N&#xB0; 50, Bairro: Santa L&#xFA;cia</street>
       <city lang="en">Vit&#xF3;ria &#x2013; Esp&#xED;rito Santo</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Renan Freitas Almeida</name>
       <email>ralmeida@ifes.edu.br</email>
-      <phone>55 27 3331 2103</phone>
+      <phone>p:55 27 3331 2103</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Ramon Marques Ramos</name>
       <email>ramon.ramos@ifes.edu.br</email>
-      <phone>55 27 3331 2103</phone>
+      <phone>p:55 27 3331 2103</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -34947,19 +34961,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av Tupy Silveira 2099</street>
       <city lang="en">Bag&#xE9;-RS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>S&#xE9;rgio Lackmann Vieira J&#xFA;nior</name>
       <email>sergiolackmann@urcamp.edu.br</email>
-      <phone>55 53 99975 3035</phone>
+      <phone>p:55 53 99975 3035</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Paulo Henrique Seixas Leite</name>
       <email>paulohenrique@urcamp.edu.br</email>
-      <phone>55 53 99941 1380</phone>
+      <phone>p:55 53 99941 1380</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -34999,19 +35013,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Melo Morais, 354 &#x2013; Centro</street>
       <city lang="en">Macei&#xF3; - AL</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Anderson P. Almeida</name>
       <email>anderson.almeida@rnp.br</email>
-      <phone>+5582 3315 4999</phone>
+      <phone>p:+5582 3315 4999</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Bruno Barbosa</name>
       <email>bruno.barbosa@rnp.br</email>
-      <phone>+5582 3315 4999</phone>
+      <phone>p:+5582 3315 4999</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -35051,19 +35065,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Pedro Vicente, n&#xBA; 625, Canind&#xE9;</street>
       <city lang="en">S&#xE3;o Paulo</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Leonardo Menzani Silva</name>
       <email>menzani@ifsp.edu.br</email>
-      <phone>+55 11 3775 4652</phone>
+      <phone>p:+55 11 3775 4652</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Diego Cesar Valente e Silva</name>
       <email>diegovalente@ifsp.edu.br</email>
-      <phone>+55 11 3775 4653</phone>
+      <phone>p:+55 11 3775 4653</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -35823,19 +35837,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua XV de Novembro, 1299 - Centro</street>
       <city lang="en">, Curitiba/PR</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Giovanni Allam Taborda</name>
       <email>giovanniallam@ufpr.br</email>
-      <phone>+55 (41) 3361-3545</phone>
+      <phone>p:+55 (41) 3361-3545</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Cezar Augusto Machado</name>
       <email>cezar@ufpr.br</email>
-      <phone>+55 (41) 3361-3312</phone>
+      <phone>p:+55 (41) 3361-3312</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -36175,19 +36189,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Presidente Ant&#xF4;nio Carlos 6627</street>
       <city lang="en">Belo Horizonte</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Fernando Frota Machado de Morais</name>
       <email>frota@ufmg.br</email>
-      <phone>+5531 3409 4007</phone>
+      <phone>p:+5531 3409 4007</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Gustavo Aur&#xE9;lio Santos Diniz</name>
       <email>gaurelio@ufmg.br</email>
-      <phone>+5531 3409 6455</phone>
+      <phone>p:+5531 3409 6455</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -37027,19 +37041,19 @@ Caixa Postal 99"</street>
       <street lang="en">BR 364, km 4 - Distrito Industrial - CEP: 69.920-900</street>
       <city lang="en">Rio Branco - AC</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Camilo Mendes</name>
       <email>camilo@pop-ac.rnp.br</email>
-      <phone>+556839012507</phone>
+      <phone>p:+556839012507</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Christian Lima</name>
       <email>christian@pop-ac.rnp.br</email>
-      <phone>+55556839012507</phone>
+      <phone>p:+55556839012507</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -37079,19 +37093,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Presidente Ant&#xF4;nio Carlos, 6.627, Campus da UFMG - Pampulha</street>
       <city lang="en">Belo Horizonte - Minas Gerais, Brasil</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Renan Oliveira da Cunha</name>
       <email>roc@cdtn.br</email>
-      <phone>+55 (31) 3069-3468</phone>
+      <phone>p:+55 (31) 3069-3468</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Pedro Henrique Ara&#xFA;jo de Matos</name>
       <email>pedro.matos@cdtn.br</email>
-      <phone>+55 (31) 3069-3064</phone>
+      <phone>p:+55 (31) 3069-3064</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -37491,19 +37505,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. It&#xE1;lia km 8, Bairro Carreiros</street>
       <city lang="en">Rio Grande/RS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Samuel Santos Troina</name>
       <email>samueltroina@furg.br</email>
-      <phone>+5553 3233 6569</phone>
+      <phone>p:+5553 3233 6569</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Bernardo Silva</name>
       <email>bernardo.silva@furg.br</email>
-      <phone>+5553 3233 6831</phone>
+      <phone>p:+5553 3233 6831</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -37543,12 +37557,12 @@ Caixa Postal 99"</street>
       <street lang="en">R. Diogo de Vasconcelos, 122. Pilar</street>
       <city lang="en">Ouro Preto</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Daniel Magalh&#xE3;es Bicalho</name>
       <email>daniel.bicalho@ufop.edu.br</email>
-      <phone>+55 31 3559 1415</phone>
+      <phone>p:+55 31 3559 1415</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -37788,19 +37802,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Sena Madureira, 1500 &#x2013; DTI 4&#xBA; andar</street>
       <city lang="en">S&#xE3;o Paulo - SP</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Marcelo Augusto Moraes Leonardeli</name>
       <email>marcelo.leonardeli@unifesp.br</email>
-      <phone>+55 11 3385 4165</phone>
+      <phone>p:+55 11 3385 4165</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jos&#xE9; Carlos A. Ohta</name>
       <email>ohta@unifesp.br</email>
-      <phone>+55 11 3385 4165</phone>
+      <phone>p:+55 11 3385 4165</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -38140,19 +38154,19 @@ Caixa Postal 99"</street>
       <street lang="en">SHIS QI 1 Conjunto B - Blocos A, B, C e D - Lago Sul</street>
       <city lang="en">Brasilia</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Ana Paula Mendes Teixeira</name>
       <email>ana.teixeira@cnpq.br</email>
-      <phone>55 61 3211 9110</phone>
+      <phone>p:55 61 3211 9110</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Joaquim Humberto M. Mota</name>
       <email>joaquim@cnpq.br</email>
-      <phone>55 61 3211 9116</phone>
+      <phone>p:55 61 3211 9116</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -38192,19 +38206,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Jo&#xE3;o da Mata, 256 &#x2013; Jaguaribe</street>
       <city lang="en">Joao Pessoa - PB</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Jo&#xE3;o Faustino</name>
       <email>joao.sousa@ifpb.edu.br</email>
-      <phone>+55 83 3612 9740</phone>
+      <phone>p:+55 83 3612 9740</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Sergio J&#xFA;nior</name>
       <email>sergio.luiz@ifpb.edu.br</email>
-      <phone>+55 83 3612 9740</phone>
+      <phone>p:+55 83 3612 9740</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -38244,19 +38258,19 @@ Caixa Postal 99"</street>
       <street lang="en">R. Imac. Concei&#xE7;&#xE3;o, 1155</street>
       <city lang="en">Curitiba - PR</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Jamez Ferraz</name>
       <email>ferraz.james@pucpr.br</email>
-      <phone>+55 41 3207-3209 \ +</phone>
+      <phone>p:+55 41 3207-3209 \ +</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Felipe Lima Santos</name>
       <email>f.santos3@grupomarista.org.br</email>
-      <phone>+55 41 3271-6229</phone>
+      <phone>p:+55 41 3271-6229</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -38476,19 +38490,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Sete de Setembro, 1621</street>
       <city lang="en">Erechim</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rodrigo Drews</name>
       <email>rodrigodrews@uricer.edu.br</email>
-      <phone>+55 54 3520-9000 / 9</phone>
+      <phone>p:+55 54 3520-9000 / 9</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Neimar Assmann</name>
       <email>neimar@uricer.edu.br</email>
-      <phone>+55 54 3520-9000 / 9</phone>
+      <phone>p:+55 54 3520-9000 / 9</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -38528,19 +38542,19 @@ Caixa Postal 99"</street>
       <street lang="en">Parque Esta&#xE7;&#xE3;o Biol&#xF3;gica - PqEB s/n&#xBA;. Bras&#xED;lia, DF - Brasil - CEP 70770-901</street>
       <city lang="en">Bras&#xED;lia</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Francisco Freire</name>
       <email>francisco.freire@embrapa.br</email>
-      <phone>+556134484457</phone>
+      <phone>p:+556134484457</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Rog&#xE9;rio Andrade</name>
       <email>rogerio.andrade@embrapa.br</email>
-      <phone>+556134484245</phone>
+      <phone>p:+556134484245</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -38600,19 +38614,19 @@ Caixa Postal 99"</street>
       <street lang="en">Campus Universit&#xE1;rio Lagoa Nova</street>
       <city lang="en">Natal &#x2013; RN</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Manoel Bezerra</name>
       <email>manoelbezerra@info.ufrn.br</email>
-      <phone>+55 84 3342 2210</phone>
+      <phone>p:+55 84 3342 2210</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jo&#xE3;o Batista</name>
       <email>joaobx@info.ufrn.br</email>
-      <phone>+55 84 3342 2210</phone>
+      <phone>p:+55 84 3342 2210</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -38652,19 +38666,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Uruguai, 458</street>
       <city lang="en">Itaja&#xED;</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Vilson Cristian Hoffmann Fey</name>
       <email>operacoes@univali.br</email>
-      <phone>55 47 3341 7777</phone>
+      <phone>p:55 47 3341 7777</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Ruth Broglio Silveira</name>
       <email>ruth@univali.br</email>
-      <phone>5547 3341 7778</phone>
+      <phone>p:5547 3341 7778</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -38824,19 +38838,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Conselheiro N&#xE9;bias, 300</street>
       <city lang="en">Santos - SP</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Antonio Miranda Galle&#xE3;o</name>
       <email>galleao@unisantos.br</email>
-      <phone> +55 13 3205 5555</phone>
+      <phone>p: +55 13 3205 5555</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Mariangela Mendes Lomba Pinho</name>
       <email>mariangelamlp@unisantos.br</email>
-      <phone> +55 13 3205 5555</phone>
+      <phone>p: +55 13 3205 5555</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -38916,19 +38930,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Professor Jos&#xE9; Seabra de Lemos, 316, Recanto dos P&#xE1;ssaros</street>
       <city lang="en">Barreiras - BA</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Cleyton Martins Sena</name>
       <email>cleyton.sena@ufob.edu.br</email>
-      <phone>+55 77 99953-8386</phone>
+      <phone>p:+55 77 99953-8386</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>David Dutkievicz</name>
       <email>davidd@ufob.edu.br</email>
-      <phone>+55 77 99152-1782</phone>
+      <phone>p:+55 77 99152-1782</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -39068,19 +39082,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Ramiro Barcelos, 2350</street>
       <city lang="en">Porto Alegre/RS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Valter Ferreira da Silva</name>
       <email>vfsilva@hcpa.edu.br</email>
-      <phone>+55 51 33598000</phone>
+      <phone>p:+55 51 33598000</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Renato Malvezzi</name>
       <email>rmalvezzi@hcpa.edu.br</email>
-      <phone>++55 51 33598227</phone>
+      <phone>p:++55 51 33598227</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -39120,19 +39134,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rodovia BR 210 KM03, Brasil Novo</street>
       <city lang="en">Macap&#xE1;</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Adriano Ara&#xFA;jo</name>
       <email>adriano.araujo@ifap.edu.br</email>
-      <phone>+55 96 3198 2154</phone>
+      <phone>p:+55 96 3198 2154</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Maco Pantoja</name>
       <email>marco.pantoja@ifap.edu.br</email>
-      <phone>+55 96 3198 2154</phone>
+      <phone>p:+55 96 3198 2154</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -39192,19 +39206,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Professor Lineu Prestes, 2242 - Cid. Universit&#xE1;ria</street>
       <city lang="en">S&#xE3;o Paulo - SP</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Jo&#xE3;o Carlos Soares de Alexandria</name>
       <email>jcsalex@ipen.br</email>
-      <phone>55 11 3133 8888</phone>
+      <phone>p:55 11 3133 8888</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Dorival Antonio Nunes</name>
       <email>danunes@ipen.br</email>
-      <phone>55 11 3133 8893</phone>
+      <phone>p:55 11 3133 8893</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -39484,19 +39498,19 @@ Caixa Postal 99"</street>
       <street lang="en">SBN Q. 1 Bl. I Ed. Armando Monteiro Neto, 13 e 14 andares</street>
       <city lang="en">Bras&#xED;lia/DF</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Eduardo Matos de Brito Junior</name>
       <email>eduardo.brito@embrapii.org.br</email>
-      <phone>(61) 3772-1016 / (61</phone>
+      <phone>p:(61) 3772-1016 / (61</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Rafael de Oliveira Martins</name>
       <email>rafael.martins@embrapii.org.br</email>
-      <phone>(61) 3772-1044</phone>
+      <phone>p:(61) 3772-1044</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -39536,19 +39550,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Tenente Raimundo Rocha S/N - Bairro Cidade Universit&#xE1;ria - Juazeiro do Norte &#x2013; Cear&#xE1;</street>
       <city lang="en">Juazeiro do Norte</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Taciano Pinheiro de Almeida Alc&#xE2;ntara</name>
       <email>taciano.pinheiro@ufca.edu.br</email>
-      <phone>(88) 3221-9414</phone>
+      <phone>p:(88) 3221-9414</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Renan Oliveira Nunes</name>
       <email>renan.oliveira@ufca.edu.br</email>
-      <phone>(88) 3221-9415</phone>
+      <phone>p:(88) 3221-9415</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -40488,19 +40502,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rodovia Dom Pedro I (SP-65), Km 143,6, Amarais</street>
       <city lang="en">Campinas</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rodrigo de Souza Ruiz</name>
       <email>rodrigo.ruiz@cti.gov.br</email>
-      <phone>+55 19 3746 6077</phone>
+      <phone>p:+55 19 3746 6077</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Thiago Jos&#xE9; Mendes Ferreira</name>
       <email>thiago.ferreira@cti.gov.br</email>
-      <phone>+55 19 3746-6217</phone>
+      <phone>p:+55 19 3746-6217</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -40580,19 +40594,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Maracan&#xE3;, 229</street>
       <city lang="en">Rio de Janeiro/RJ</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Cesar Gama</name>
       <email>cesar.gama@cefet-rj.br</email>
-      <phone>+55 21 2566-3013</phone>
+      <phone>p:+55 21 2566-3013</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Erick Santos</name>
       <email>erick.santos@cefet-rj.br</email>
-      <phone>+55 21 2566-3010</phone>
+      <phone>p:+55 21 2566-3010</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -40632,19 +40646,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rod. Marechal Rondon</street>
       <city lang="en">S&#xE3;o Crist&#xF3;v&#xE3;o/SE</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Dilton Dantas</name>
       <email>dilton.dantas@pop-se.rnp.br</email>
-      <phone>+5579 3194 6724</phone>
+      <phone>p:+5579 3194 6724</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Rodrigo Rezende</name>
       <email>rodrigo.rezende@pop-se.rnp.br</email>
-      <phone>+5521 3194 6355</phone>
+      <phone>p:+5521 3194 6355</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -40684,19 +40698,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Augusto Corr&#xEA;a, 01 &#x2013; Guam&#xE1; &#x2013; CTIC -PoP-PA</street>
       <city lang="en">Bel&#xE9;m/PA</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Eraldo Santos</name>
       <email>eraldo.santos@pop-pa.rnp.br</email>
-      <phone>+55 91 32017807</phone>
+      <phone>p:+55 91 32017807</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Nelson Braz&#xE3;o</name>
       <email>nelson.brazao@pop-pa.rnp.br</email>
-      <phone>+55 91 32017807</phone>
+      <phone>p:+55 91 32017807</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -40736,19 +40750,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Dom Jo&#xE3;o VI, 275</street>
       <city lang="en">Brotas</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Claudio Santos</name>
       <email>nti-claudiosantos@bahiana.edu.br</email>
-      <phone>+55 71 3276 8220</phone>
+      <phone>p:+55 71 3276 8220</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Ivan Mota</name>
       <email>nti-ivanmota@bahiana.edu.br</email>
-      <phone>+55 71 32768207</phone>
+      <phone>p:+55 71 32768207</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -40888,12 +40902,12 @@ Caixa Postal 99"</street>
       <street lang="en">Av. PH Rolfs S/N &#x2013; Campus universit&#xE1;rio</street>
       <city lang="en">Vi&#xE7;osa &#x2013; MG</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>DTI &#x2013; Diretoria de Tecnologia da Informa&#xE7;&#xE3;o</name>
       <email>drs@ufv.br</email>
-      <phone>+55 31 3612 1102</phone>
+      <phone>p:+55 31 3612 1102</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -40933,19 +40947,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Silvio Am&#xE9;rico Sasdelli, 1842 - Vila A, Ed. Lorivo, sala 6</street>
       <city lang="en">Foz do Igua&#xE7;&#xFA;</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Armando Guerra</name>
       <email>armando.guerra@unila.edu.br</email>
-      <phone>+554535292110</phone>
+      <phone>p:+554535292110</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Carlos A. M. Basso</name>
       <email>carlos.alberto@unila.edu.br</email>
-      <phone>+554535292120</phone>
+      <phone>p:+554535292120</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -41025,19 +41039,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. dos Astronautas, 1758 - Jardim da Granja</street>
       <city lang="en">S&#xE3;o Jos&#xE9; dos Campos &#x2013; SP</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Antonio Esio Marcondes Salgado</name>
       <email>antonio.esio@inpe.br</email>
-      <phone>+55 12 3208 6760</phone>
+      <phone>p:+55 12 3208 6760</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Ricardo Varela Correa</name>
       <email>ricardo.varela@inpe.br</email>
-      <phone>+55 12 3208 6760</phone>
+      <phone>p:+55 12 3208 6760</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -41857,19 +41871,19 @@ Caixa Postal 99"</street>
       <street lang="en">BR 285 KM 270 S/N &#x2013; Campus Universit&#xE1;rio</street>
       <city lang="en">Passo Fundo</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Equipe de Ger&#xEA;ncia de Rede</name>
       <email>rede@upf.br</email>
-      <phone>+55 54 3316-8399</phone>
+      <phone>p:+55 54 3316-8399</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Adriano Pasqualotti</name>
       <email>pasqualotti@upf.br</email>
-      <phone>+55 54 3316-8250</phone>
+      <phone>p:+55 54 3316-8250</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -41969,19 +41983,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Roraima, 1000</street>
       <city lang="en">Santa Maria - RS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Carlos Roberto Grieco de Moraes</name>
       <email>crgmoraes@cpd.ufsm.br</email>
-      <phone>+55 55 3220 8603</phone>
+      <phone>p:+55 55 3220 8603</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Douglas Pegoraro Stangarlin</name>
       <email>douglastangarlin@cpd.ufsm.br</email>
-      <phone>+55 55 3220 8843</phone>
+      <phone>p:+55 55 3220 8843</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -42901,19 +42915,19 @@ Caixa Postal 99"</street>
       <street lang="en">Campus Sede: R. Francisco Get&#xFA;lio Vargas, 1130 &#x2013; Bloco 71, Sala 100 &#x2013; Petr&#xF3;polis, Caxias do Sul - RS</street>
       <city lang="en">Caxias do Sul/RS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Carlos Vasata</name>
       <email>cevasata@ucs.br</email>
-      <phone>+555432182573</phone>
+      <phone>p:+555432182573</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jeronimo Zucco</name>
       <email>jczucco@ucs.br</email>
-      <phone>+555432182660</phone>
+      <phone>p:+555432182660</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -44592,19 +44606,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Fern&#xE3;o Dias Paes Leme, n&#xBA; 11 &#x2013; Calung&#xE1;</street>
       <city lang="en">Boa Vista/Roraima</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Francisco de Assis da Silva Cavalcante Filho</name>
       <email>francisco.filho@ifrr.edu.br</email>
-      <phone>95 991237938</phone>
+      <phone>p:95 991237938</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Thyago de Melo Tosin</name>
       <email>thyago.tosin@ifrr.edu.br</email>
-      <phone>95 3624 1224</phone>
+      <phone>p:95 3624 1224</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -44684,19 +44698,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua PIO XI, 1500</street>
       <city lang="en">S&#xE3;o Paulo</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>F&#xE1;bio Watanabe</name>
       <email>watanabe@fapesp.br</email>
-      <phone>55 11 3838 4082</phone>
+      <phone>p:55 11 3838 4082</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Eloise Bonfante Amorim Monsanto</name>
       <email>eloise@fapesp.br</email>
-      <phone>55 11 3838 4128</phone>
+      <phone>p:55 11 3838 4128</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -44736,19 +44750,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua 88, n&#xBA;310, Setor Sul</street>
       <city lang="en">Goiania</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Alfredo Pupak Pereira Virote</name>
       <email> alfredo.pupak@ifgoiano.edu.br</email>
-      <phone>+55 62 3605-3616</phone>
+      <phone>p:+55 62 3605-3616</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Fernando Pirkel Tsukahara</name>
       <email>fernando.tsukahara@ifgoiano.edu.br</email>
-      <phone>+55 62 3605-3616</phone>
+      <phone>p:+55 62 3605-3616</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -44788,19 +44802,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Dr Siqueira, 273</street>
       <city lang="en">Campos dos Goytacazes-RJ</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Andr&#xE9; de Azevedo Cunha</name>
       <email>acunha@iff.edu.br</email>
-      <phone>+5522 27375603</phone>
+      <phone>p:+5522 27375603</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Antonio Guedes Soares Jr</name>
       <email>agsoares@iff.edu.br</email>
-      <phone>+5522 27375604</phone>
+      <phone>p:+5522 27375604</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -44860,19 +44874,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Sarmento Leite, 245 - Centro Hist&#xF3;rico</street>
       <city lang="en">Porto Alegre/RS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Maur&#xED;cio Alves Gomes</name>
       <email>mauriciog@ufcspa.edu.br</email>
-      <phone>+55 51 3303 8818</phone>
+      <phone>p:+55 51 3303 8818</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Itamar M. da Silva</name>
       <email>itamar@ufcspa.edu.br</email>
-      <phone>+55 51 3303 8818</phone>
+      <phone>p:+55 51 3303 8818</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -44952,19 +44966,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Dom Manoel de Medeiros, s/n, Dois Irm&#xE3;os</street>
       <city lang="en">Recife-PE</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Fred Medeiros</name>
       <email>fred@ufrpe.br</email>
-      <phone>+55 81 3320 6046</phone>
+      <phone>p:+55 81 3320 6046</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Vamberto Rocha</name>
       <email>vamberto@ufrpe.br</email>
-      <phone>+55 81 3320 6046</phone>
+      <phone>p:+55 81 3320 6046</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -45044,19 +45058,19 @@ Caixa Postal 99"</street>
       <street lang="en">Campus Universit&#xE1;rio Ministro Petr&#xF4;nio Portella - Bairro Ininga</street>
       <city lang="en">STI - Bloco 8 / CEP: 64.049-550 - Teresina - PI</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Arinaldo Silva</name>
       <email>arinaldo@ufpi.edu.br</email>
-      <phone>+55 86 3215 5627</phone>
+      <phone>p:+55 86 3215 5627</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>M&#xE1;rio Moura</name>
       <email>mclmoura@ufpi.edu.br</email>
-      <phone>+55 86 3215 5627</phone>
+      <phone>p:+55 86 3215 5627</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -45096,19 +45110,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Goi&#xE1;s, 3400, Bairro Barcelona</street>
       <city lang="en">S&#xE3;o Caetano do Sul</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Eduardo dos Santos</name>
       <email>eduardo@uscs.edu.br</email>
-      <phone>+55 11 4239-3433</phone>
+      <phone>p:+55 11 4239-3433</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jo&#xE3;o Em&#xED;lio Pagan</name>
       <email>jepagan@uscs.edu.br</email>
-      <phone>+55 11 4239-3234</phone>
+      <phone>p:+55 11 4239-3234</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -45148,19 +45162,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Dom Jos&#xE9; Gaspar 500, pr&#xE9;dio 34, sala 202</street>
       <city lang="en">Belo Horizonte/MG</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Shirley Luana Ramos</name>
       <email>shirley@pucminas.br</email>
-      <phone>+55 31 3319 4008</phone>
+      <phone>p:+55 31 3319 4008</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Renato Lopes da Silva</name>
       <email>renatolopes@pucminas.br</email>
-      <phone>+55 31 3319 4004</phone>
+      <phone>p:+55 31 3319 4004</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -46680,12 +46694,12 @@ Caixa Postal 99"</street>
       <street lang="en">Av. da Universidade, 2853 - Benfica</street>
       <city lang="en">Fortaleza</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Marcio Andre Souto Correia</name>
       <email>marcio.correia@sti.ufc.br</email>
-      <phone>+55 85 3366-9999</phone>
+      <phone>p:+55 85 3366-9999</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -46725,19 +46739,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Pedro Calmon, 500 &#x2013; Cidade Universit&#xE1;ria da Universidade Federal do Rio de Janeiro</street>
       <city lang="en">Rio de Janeiro</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Superintend&#xEA;ncia/TIC</name>
       <email>superintendencia@tic.ufrj.br</email>
-      <phone>21 3938-1956</phone>
+      <phone>p:21 3938-1956</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>DSSC/TIC</name>
       <email>adm.servidores@tic.ufrj.br</email>
-      <phone>21 3938-9548</phone>
+      <phone>p:21 3938-9548</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -46897,19 +46911,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida NS 15, Quadra 109 Norte, Bloco IV, ALCNO-14, Bairro Plano Diretor Norte</street>
       <city lang="en">Palmas-TO</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Juliano Alves Rios</name>
       <email>coordadm@pop-to.rnp.br</email>
-      <phone>+5563 98121 4316</phone>
+      <phone>p:+5563 98121 4316</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Junior Fernandes de Oliveira</name>
       <email>coordtec@pop-to.rnp.br</email>
-      <phone>+5563 99225 4783</phone>
+      <phone>p:+5563 99225 4783</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -46949,19 +46963,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Cear&#xE1;, 972 - Santa F&#xE9;</street>
       <city lang="en">Campo Grande</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Helder Silva</name>
       <email>helder.silva@ifms.edu.br</email>
-      <phone>+5567 3378 9573</phone>
+      <phone>p:+5567 3378 9573</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Marcio Imai</name>
       <email>marcio.imai@ifms.edu.br</email>
-      <phone>+5567 3378 9571</phone>
+      <phone>p:+5567 3378 9571</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -47201,19 +47215,19 @@ Caixa Postal 99"</street>
       <street lang="en">R. Miguel de Frias, 9</street>
       <city lang="en">Niter&#xF3;i</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Cosme Corr&#xEA;a</name>
       <email>cosmefc@id.uff.br</email>
-      <phone>+55 21 4042 6606</phone>
+      <phone>p:+55 21 4042 6606</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Guilherme Nunes Nasseh Barbosa</name>
       <email>guilhermenasseh@id.uff.br</email>
-      <phone>+55 21 4042 6606</phone>
+      <phone>p:+55 21 4042 6606</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -47393,19 +47407,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Getulio Vargas, 2125</street>
       <city lang="en">Joa&#xE7;aba/SC</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Adalberto Freiberger</name>
       <email>adalberto.freiberger@unoesc.edu.br</email>
-      <phone>+55 49 3551 2070</phone>
+      <phone>p:+55 49 3551 2070</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Roseli Rocha Moterle</name>
       <email>ctic.jba@unoesc.edu.br</email>
-      <phone>+55 49 3551 2005</phone>
+      <phone>p:+55 49 3551 2005</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -47685,19 +47699,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Joaquim Teot&#xF4;nio Segurado, Quadra 202 sul, ACSU-SE 20, Conjunto 01, Lote 08, Piso 1</street>
       <city lang="en">Palmas - TO</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Fabiana Ferreira Cardoso</name>
       <email>fabiana.cardoso@ifto.edu.br</email>
-      <phone>63 98485-0805</phone>
+      <phone>p:63 98485-0805</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Ronaldo Vasconcelos Parante</name>
       <email>parente@ifto.edu.br</email>
-      <phone>63 3229-2212</phone>
+      <phone>p:63 3229-2212</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -47757,26 +47771,26 @@ Caixa Postal 99"</street>
       <street lang="en">Rua 14 de julho, 150, Coqueiros</street>
       <city lang="en">Florian&#xF3;polis</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Vinicius Teixeira Coelho</name>
       <email>viniciustc@ifsc.edu.br</email>
-      <phone>+55 48 3877 9049</phone>
+      <phone>p:+55 48 3877 9049</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Luiz Fernando Ramos Costa</name>
       <email>luiz.costa@ifsc.edu.br</email>
-      <phone>+55 48 3877 9049</phone>
+      <phone>p:+55 48 3877 9049</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Glaidson Verzeletti</name>
       <email>glaidson.verzeletti@ifsc.edu.br</email>
-      <phone>+55 49 3221 4221</phone>
+      <phone>p:+55 49 3221 4221</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -48196,19 +48210,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Unisinos, 950 - B. Cristo Rei</street>
       <city lang="en">S&#xE3;o Leopoldo - RS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rochele Moreira</name>
       <email>rochele@asav.org.br</email>
-      <phone>+555135908385</phone>
+      <phone>p:+555135908385</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Marco Ant&#xF4;nio Rolon</name>
       <email>marco@asav.org.br</email>
-      <phone>+555135908386</phone>
+      <phone>p:+555135908386</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -48268,47 +48282,47 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Lauro Muller, 116 sala 1905</street>
       <city lang="en">Rio de Janeiro</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Luciano Fernandes da Rocha</name>
       <email>luciano.rocha@rnp.br</email>
-      <phone>+55 (61) 3243-4389</phone>
+      <phone>p:+55 (61) 3243-4389</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jean Carlo Faustino</name>
       <email>jean.carlo@rnp.br</email>
-      <phone>+55 (61) 3243-4351</phone>
+      <phone>p:+55 (61) 3243-4351</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Rafael Melo Veras</name>
       <email>rafael.veras@rnp.br</email>
-      <phone>+55 (84) 3342-2294</phone>
+      <phone>p:+55 (84) 3342-2294</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Anderson P. Almeida</name>
       <email>anderson.almeida@rnp.br</email>
-      <phone>+55 (82) 3315-4999</phone>
+      <phone>p:+55 (82) 3315-4999</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Service Desk RNP</name>
       <email>equipesd@rnp.br</email>
-      <phone>+55 (08) 0072-2021</phone>
+      <phone>p:+55 (08) 0072-2021</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jos&#xE9; Carlos Teixeira J&#xFA;nior </name>
       <email>jose.junior@rnp.br</email>
-      <phone>+55 (61) 3243-4422</phone>
+      <phone>p:+55 (61) 3243-4422</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -48511,19 +48525,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Dr. Xavier Sigaud, 150</street>
       <city lang="en">Rio de Janeiro - RJ</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Marita Maestrelli</name>
       <email>marita@cbpf.br</email>
-      <phone>+55 (21) 2141-7124</phone>
+      <phone>p:+55 (21) 2141-7124</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Orlanna </name>
       <email>lanna@cbpf.br</email>
-      <phone>+55 (21) 2141-7113</phone>
+      <phone>p:+55 (21) 2141-7113</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -48564,19 +48578,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Amazonas, 5253 - Nova Su&#xED;&#xE7;a</street>
       <city lang="en">Belo Horizonte/MG</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Marco T&#xFA;lio Rodrigues</name>
       <email>tulio.rodrigues@cefetmg.br</email>
-      <phone>+5531 3319 7409</phone>
+      <phone>p:+5531 3319 7409</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Leonardo B. Lopes</name>
       <email>leonardo@cefetmg.br</email>
-      <phone>+5531 3319 7409</phone>
+      <phone>p:+5531 3319 7409</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -48816,19 +48830,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. dos Portugueses, 1966</street>
       <city lang="en">S&#xE3;o Lu&#xED;s/MA</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Jos&#xE9; Netto</name>
       <email>coord.tec@pop-ma.rnp.br</email>
-      <phone>+5598 3272 8080</phone>
+      <phone>p:+5598 3272 8080</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Nelio Guilhon</name>
       <email>coord.adm@pop-ma.rnp.br</email>
-      <phone>+5598 3272 8895</phone>
+      <phone>p:+5598 3272 8895</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -48868,19 +48882,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Gabriel Monteiro da Silva, 700 &#x2013; Centro</street>
       <city lang="en">Alfenas-MG</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Vitor Renato Alves de Brito</name>
       <email>vitorrenato.brito@unifal-mg.edu.br</email>
-      <phone>+55 35 3701-9032</phone>
+      <phone>p:+55 35 3701-9032</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Marcelo Penha Fernandes</name>
       <email>marcelo.penha@unifal-mg.edu.br</email>
-      <phone>+55 35 3701-9033</phone>
+      <phone>p:+55 35 3701-9033</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -48980,19 +48994,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Presidente J&#xE2;nio Quadros, 330, 64053-390, Santa Isabel</street>
       <city lang="en">Teresina - PI</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Paulo Alex</name>
       <email>pauloalex.maranhao@ifpi.edu.br </email>
-      <phone>+55 86 3131-1414</phone>
+      <phone>p:+55 86 3131-1414</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Nathan Saraiva</name>
       <email>nsaraiva@ifpi.edu.br</email>
-      <phone>+55 86 3131-1414</phone>
+      <phone>p:+55 86 3131-1414</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -49152,19 +49166,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rodovia MGT 367 - Km 583, n&#xBA; 5.000, Alto da Jacuba&#xA0;</street>
       <city lang="en">Diamantina-MG</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Leandro Leal</name>
       <email>leandro.leal@ufvjm.edu.br</email>
-      <phone>+5538 3532 1285</phone>
+      <phone>p:+5538 3532 1285</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Rogerio Silva</name>
       <email>rogerio.silva@ufvjm.edu.br</email>
-      <phone>+5538 3532 1285</phone>
+      <phone>p:+5538 3532 1285</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -49284,12 +49298,12 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Jo&#xE3;o da Mata, 256, Jaguaribe</street>
       <city lang="en">Jo&#xE3;o Pessoa</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Jos&#xE9; Hermano Cavalcanti Filho</name>
       <email> jose.cavalcanti@ifpb.edu.br</email>
-      <phone>+55 83 91918465</phone>
+      <phone>p:+55 83 91918465</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -49336,19 +49350,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua General Bruce, 586 - Sao Cristovao</street>
       <city lang="en">Rio de Janeiro</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Alberto Wester</name>
       <email>albertow@mast.br</email>
-      <phone>+5521 3514-5279</phone>
+      <phone>p:+5521 3514-5279</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Leonardo Cardozo Alves</name>
       <email>leonardo@mast.br</email>
-      <phone>+5521 3514-5280</phone>
+      <phone>p:+5521 3514-5280</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -49389,19 +49403,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Luz Interior, n&#xBA; 360, Bairro Estrela Sul</street>
       <city lang="en">Juiz de Fora-MG</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Elder Marcelino</name>
       <email>elder.marcelino@ifsudestemg.edu.br</email>
-      <phone>+55 32 3257 4123</phone>
+      <phone>p:+55 32 3257 4123</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Leandro Rodrigues</name>
       <email>leandro.rodriques@ifsudestemg.edu.br</email>
-      <phone>+55 32 3257 4124</phone>
+      <phone>p:+55 32 3257 4124</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -49441,19 +49455,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Roxo Moreira, 410, Cidade Universit&#xE1;ria Zeferino Vaz</street>
       <city lang="en">Campinas</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rachel Paschoalino de Carvalho</name>
       <email>rachel@ccuec.unicamp.br</email>
-      <phone>+55 19 3521-2276</phone>
+      <phone>p:+55 19 3521-2276</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Thiago Rodines Pereira</name>
       <email>rodines@ccuec.unicamp.br</email>
-      <phone>+55 19 3521-2276</phone>
+      <phone>p:+55 19 3521-2276</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -51293,19 +51307,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rodovia ERS 239, 2755</street>
       <city lang="en">Novo Hamburgo</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Edel Pinto Martins</name>
       <email>edel@feevale.br</email>
-      <phone>51-3586-8800</phone>
+      <phone>p:51-3586-8800</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Esequiel Silveira</name>
       <email>esequiel@feevale.br</email>
-      <phone>51-3586-8902</phone>
+      <phone>p:51-3586-8902</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -51385,19 +51399,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Vicente Sim&#xF5;es, 1.111</street>
       <city lang="en">Pouso Alegre/MG</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Gabriel Maduro Marcondes Pereira</name>
       <email>gabriel.maduro@ifsuldeminas.edu.br</email>
-      <phone>+55 35 3449 6166</phone>
+      <phone>p:+55 35 3449 6166</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Fernando Rodrigues de Albuquerque</name>
       <email>fernando.rodrigues@ifsuldeminas.edu.br</email>
-      <phone>+55 35 3449 6162</phone>
+      <phone>p:+55 35 3449 6162</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -51437,19 +51451,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rodovia Dourados - Itahum, Km 12 - Cidade Universitaria</street>
       <city lang="en">Dourados/MS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rafael Fontes</name>
       <email>coin.infra@ufgd.edu.br</email>
-      <phone>+556734102508</phone>
+      <phone>p:+556734102508</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Renato Neto</name>
       <email>renatoneto@ufgd.edu.br</email>
-      <phone>+556734102509</phone>
+      <phone>p:+556734102509</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -51829,19 +51843,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Maracan&#xE3;, 229</street>
       <city lang="en">Rio de Janeiro</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Jose Carlos de Albuquerque</name>
       <email>jose.albuquerque@cefet-rj.br</email>
-      <phone>+55 21 2566-2901</phone>
+      <phone>p:+55 21 2566-2901</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Igor Vital Rodrigues</name>
       <email>igor.rodrigues@cefet-rj.br</email>
-      <phone>+55 21 2566-3073</phone>
+      <phone>p:+55 21 2566-3073</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -51881,19 +51895,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Paulo Gama, 110 - Bairro Farroupilha</street>
       <city lang="en">Porto Alegre</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Leandro Fortes Rey</name>
       <email>leandro@cpd.ufrgs.br</email>
-      <phone>+5551 3308 5050</phone>
+      <phone>p:+5551 3308 5050</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Caciano dos Santos Machado</name>
       <email>caciano@cpd.ufrgs.br</email>
-      <phone>+5551 3308 5050</phone>
+      <phone>p:+5551 3308 5050</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -54593,19 +54607,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Jo&#xE3;o Naves de &#xC1;vila, 2121,bloco 1J, sala 206</street>
       <city lang="en">Uberl&#xE2;ndia</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Fernanda Barbosa Coelho Mendes</name>
       <email>fernanda@ufu.br</email>
-      <phone>+5534 3239 4047</phone>
+      <phone>p:+5534 3239 4047</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jeziel Oliveira</name>
       <email>jeziel@ufu.br</email>
-      <phone>+5534 3239 4297</phone>
+      <phone>p:+5534 3239 4297</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -54765,19 +54779,19 @@ Caixa Postal 99"</street>
       <street lang="en">Quadra 610 M&#xF3;dulos D, E, F, G - Asa Norte</street>
       <city lang="en">Bras&#xED;lia - DF</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Anderson Costa</name>
       <email>anderson.costa@ifb.edu.br</email>
-      <phone>+55 61 2103 2129</phone>
+      <phone>p:+55 61 2103 2129</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Edim&#xE1;ria Lamounier</name>
       <email>edimaria.lamounier@ifb.edu.br</email>
-      <phone>+55 61 2103 2159</phone>
+      <phone>p:+55 61 2103 2159</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -54817,12 +54831,12 @@ Caixa Postal 99"</street>
       <street lang="en">Rua &#xC1;lvaro Mendes, 1597</street>
       <city lang="en">Teresina</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Ciro J&#xFA;nior</name>
       <email>cirojunior@ifpi.edu.br</email>
-      <phone>+55 86 3215-5214</phone>
+      <phone>p:+55 86 3215-5214</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -54862,19 +54876,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Ant&#xF4;nio da Veiga, 140</street>
       <city lang="en">Blumenau - SC</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Flaviano Angeli</name>
       <email>suporte@furb.br</email>
-      <phone>+55 47 33210429</phone>
+      <phone>p:+55 47 33210429</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Marcos dos Santos de Oliveira</name>
       <email>suporte@furb.br</email>
-      <phone>+55 47 33210429</phone>
+      <phone>p:+55 47 33210429</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -54974,19 +54988,19 @@ Caixa Postal 99"</street>
       <street lang="en">BR 285 km 171, Bairro S&#xE3;o Jos&#xE9;</street>
       <city lang="en">Passo Fundo</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Marcos Prestes</name>
       <email>marcos.prestes@upf.br</email>
-      <phone>55 54 3316 8250</phone>
+      <phone>p:55 54 3316 8250</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Fabr&#xED;cio Lorenzon</name>
       <email>lorenzon@upf.br</email>
-      <phone>55 54 3316 8250</phone>
+      <phone>p:55 54 3316 8250</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -56046,19 +56060,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Dr Siqueira, 273</street>
       <city lang="en">Campos dos Goytacazes-RJ</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Andr&#xE9; de Azevedo Cunha</name>
       <email>acunha@iff.edu.br</email>
-      <phone>+5522 27375603</phone>
+      <phone>p:+5522 27375603</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Antonio Guedes Soares Jr</name>
       <email>agsoares@iff.edu.br</email>
-      <phone>+5522 27375604</phone>
+      <phone>p:+5522 27375604</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -56118,19 +56132,19 @@ Caixa Postal 99"</street>
       <street lang="en">C&#xE2;mpus Samambaia (C&#xE2;mpus II) - Pr&#xE9;dio da Reitoria</street>
       <city lang="en">Goi&#xE2;nia</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Douglas Borges de Oliveira Filho</name>
       <email>douglasfilho@cercomp.ufg.br</email>
-      <phone>+55 62 3521-1253</phone>
+      <phone>p:+55 62 3521-1253</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>M&#xE1;rio Augusto</name>
       <email>mario@cercomp.ufg.br</email>
-      <phone>+55 62 3521-1253</phone>
+      <phone>p:+55 62 3521-1253</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -56270,19 +56284,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Francisco Lopes de Almeida, s/n &#x2013; Serrot&#xE3;o</street>
       <city lang="en">Campina Grande-PB</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Pedro Pacheco</name>
       <email>pedro.pacheco@insa.gov.br</email>
-      <phone>(83) 3315-6417</phone>
+      <phone>p:(83) 3315-6417</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Felipe Ata&#xED;de</name>
       <email>felipe.albuquerque@insa.gov.br</email>
-      <phone>(83) 3315-6480</phone>
+      <phone>p:(83) 3315-6480</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -56342,19 +56356,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Sete de Setembro,  n&#xBA; 2090 - Bairro Nossa Senhora das Gra&#xE7;as</street>
       <city lang="en">Porto Velho - RO</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>F&#xE1;bio Mamor&#xE9; Conde</name>
       <email>fabio.conde@ifro.edu.br</email>
-      <phone>+5569 2182 9615</phone>
+      <phone>p:+5569 2182 9615</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Joilson Dantas Siqueira Silva</name>
       <email>joilson.silva@ifro.edu.br</email>
-      <phone>+5569 2182 9632</phone>
+      <phone>p:+5569 2182 9632</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -56794,19 +56808,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. dos Portugueses, 1966</street>
       <city lang="en">S&#xE3;o Lu&#xED;s/MA</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Jos&#xE9; Ribamar Santanna Netto</name>
       <email>jose.netto@ufma.br</email>
-      <phone>(98) 3272 8087</phone>
+      <phone>p:(98) 3272 8087</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Le&#xF4;nidas Cipriano Leal Neto</name>
       <email>leonidas.neto@ufma.br</email>
-      <phone>(98) 3272 8092</phone>
+      <phone>p:(98) 3272 8092</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -56946,19 +56960,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida  Prof. Luciano Gualberto, travessa 3, 71, Butant&#xE3;</street>
       <city lang="en">S&#xE3;o Paulo</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Ettore Enrico Delfino Ligorio</name>
       <email>ettore@usp.br</email>
-      <phone>+55 11 3091 6480</phone>
+      <phone>p:+55 11 3091 6480</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Renato Luis Sousa</name>
       <email>rensousa@usp.br</email>
-      <phone>+55 11 3091 9788</phone>
+      <phone>p:+55 11 3091 9788</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -59758,19 +59772,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. BPS, 1303 &#x2013; Bairro Pinheirinho</street>
       <city lang="en">Itajub&#xE1;</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Luiz Antonio Gon&#xE7;alves</name>
       <email>chin@unifei.edu.br</email>
-      <phone>+55 35 3629-1652</phone>
+      <phone>p:+55 35 3629-1652</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Pablo Marques</name>
       <email>pablo@unifei.edu.br</email>
-      <phone>+55 35 3629 1642</phone>
+      <phone>p:+55 35 3629 1642</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -60150,19 +60164,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Doutor Nilo Bezerra Ramalho, 1692</street>
       <city lang="en">Natal</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Joao Rodrigo Silva de Carvalho</name>
       <email>rodrigo.carvalho@ifrn.edu.br</email>
-      <phone>84 4005-0773</phone>
+      <phone>p:84 4005-0773</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Carlos Eduardo Gomes do Egito</name>
       <email>eduardo.egito@ifrn.edu.br</email>
-      <phone>84 4005-0773</phone>
+      <phone>p:84 4005-0773</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -60342,19 +60356,19 @@ Caixa Postal 99"</street>
       <street lang="en">Servid&#xE3;o Anjo da Guarda, n&#xBA; 295-D, Bairro Efapi - CEP: 89809-900.</street>
       <city lang="en">Santa Catarina / Chapec&#xF3;</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Jhony Maseto</name>
       <email>noc@unochapeco.edu.br</email>
-      <phone>55 49 3321 8310</phone>
+      <phone>p:55 49 3321 8310</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Lissandro Hoffmeister</name>
       <email>dti@unochapeco.edu.br</email>
-      <phone>5549 3321 8310</phone>
+      <phone>p:5549 3321 8310</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -60394,19 +60408,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Hor&#xE1;cio Macedo, 2030 - sala G101</street>
       <city lang="en">Rio de Janeiro</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Suporte CISI</name>
       <email>suporte@cisi.coppe.ufrj.br</email>
-      <phone>55 21 3938 8121</phone>
+      <phone>p:55 21 3938 8121</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Desenvolvimento CISI</name>
       <email>desenv@cisi.coppe.ufrj.br</email>
-      <phone>55 21 3938 8124</phone>
+      <phone>p:55 21 3938 8124</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -60446,19 +60460,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rod. Juscelino Kubitschek, km 02</street>
       <city lang="en">Macap&#xE1;/AP</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Samir Silva</name>
       <email>samir@unifap.br</email>
-      <phone>+55 96 3312 1736</phone>
+      <phone>p:+55 96 3312 1736</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Efraim Morais</name>
       <email>efraim@unifap.br</email>
-      <phone>+55 96 3312 1736</phone>
+      <phone>p:+55 96 3312 1736</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -60498,19 +60512,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua General Os&#xF3;rio, 348</street>
       <city lang="en">Bento Gon&#xE7;alves-RS</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>C&#xE9;sar Loureiro</name>
       <email>cesar.loureiro@poa.ifrs.edu.br</email>
-      <phone>+55 51 3308 5042</phone>
+      <phone>p:+55 51 3308 5042</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Edgar J Stello Jr</name>
       <email>stello.junior@ifrs.edu.br</email>
-      <phone>+55 54 3449 3375</phone>
+      <phone>p:+55 54 3449 3375</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -60550,19 +60564,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Venezuela, 82 - Pra&#xE7;a Mau&#xE1;</street>
       <city lang="en">Rio de Janeiro/RJ</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Ricardo Castro</name>
       <email>ricardo.castro@int.gov.br</email>
-      <phone>+55 21 2123 1119</phone>
+      <phone>p:+55 21 2123 1119</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Luiz Dias</name>
       <email>luiz.dias@int.gov.br</email>
-      <phone>+55 21 2123 1113</phone>
+      <phone>p:+55 21 2123 1113</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -60602,19 +60616,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rodovia Juscelino Kubtscheck, KM 02 &#x2013; S/N</street>
       <city lang="en">Macap&#xE1;</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Paulo Alves</name>
       <email>paulo.alves@pop-ap.rnp.br</email>
-      <phone>+5596 99115 3515</phone>
+      <phone>p:+5596 99115 3515</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Daniel Mesquita</name>
       <email>daniel.mesquita@pop-ap.rnp.br</email>
-      <phone>+5596 98111 6801</phone>
+      <phone>p:+5596 98111 6801</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -60654,19 +60668,19 @@ Caixa Postal 99"</street>
       <street lang="en">Cidade Universit&#xE1;ria  s/n&#x2013; Conjunto Castelo Branco</street>
       <city lang="en">Joao Pessoa &#x2013; Para&#xED;ba</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Frederico A M Saraiva</name>
       <email>fred@sti.ufpb.br</email>
-      <phone>+55 83 3216 7898</phone>
+      <phone>p:+55 83 3216 7898</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Janio Carlos Mesquita Vieira</name>
       <email>janio@sti.ufpb.br</email>
-      <phone>+55 83 3216 7898</phone>
+      <phone>p:+55 83 3216 7898</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -60706,19 +60720,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. dos Estados, 5001 - Sala NTI - Subsolo - Bloco A</street>
       <city lang="en">Santo Andr&#xE9;/SP</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Renato Martuchi</name>
       <email>renato.martuchi@ufabc.edu.br</email>
-      <phone>+55 11 3356 7117</phone>
+      <phone>p:+55 11 3356 7117</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Samuel Werneck</name>
       <email>samuel.werneck@ufabc.edu.br</email>
-      <phone>+5511 3356 7130</phone>
+      <phone>p:+5511 3356 7130</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -61018,19 +61032,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rodovia Ce-040 km 139 s/n</street>
       <city lang="en">Aracati-CE</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Thiago Carneiro Feitosa</name>
       <email>thiago@ifce.edu.br</email>
-      <phone>+55 85 9 8121 9711</phone>
+      <phone>p:+55 85 9 8121 9711</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Alexandre Barboza</name>
       <email>alexandre.barboza@ifce.edu.br</email>
-      <phone>+55 85 3303 1200</phone>
+      <phone>p:+55 85 3303 1200</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -61170,19 +61184,19 @@ Caixa Postal 99"</street>
       <street lang="en">R. Cel. Francisco H dos Santos, 100</street>
       <city lang="en">Curitiba/PR</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Christian Lyra</name>
       <email>christian.lyra@rnp.br</email>
-      <phone>+5541 3208 6391</phone>
+      <phone>p:+5541 3208 6391</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Pedro Rodrigues Torres Jr</name>
       <email>torres@pop-pr.rnp.br</email>
-      <phone>+5541 3208 6393</phone>
+      <phone>p:+5541 3208 6393</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -61222,19 +61236,19 @@ Caixa Postal 99"</street>
       <street lang="en">Campus Soane Nazar&#xE9; de Andrade, Rodovia Jorge Amado, Km 16, Bairro Salobrinho</street>
       <city lang="en">Ilheus</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Lilia Marta Brand&#xE3;o Soussa Modesto</name>
       <email>lilia@uesc.br</email>
-      <phone>+55 73 3680 5216</phone>
+      <phone>p:+55 73 3680 5216</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Ciro Macedo</name>
       <email>crmacedo@uesc.br</email>
-      <phone>+55 73 3680 5039</phone>
+      <phone>p:+55 73 3680 5039</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -61274,19 +61288,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Marqu&#xEA;s de Paranagu&#xE1;, 111</street>
       <city lang="en">S&#xE3;o Paulo</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Milton Kaoru Kashiwakura</name>
       <email>miltonk@gmail.com</email>
-      <phone>+551131247227</phone>
+      <phone>p:+551131247227</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Victor E.J.S. Vicente</name>
       <email>victor@pucsp.br</email>
-      <phone>+551136708036</phone>
+      <phone>p:+551136708036</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -61346,19 +61360,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rua Apr&#xED;gio Veloso, 882 &#x2013; Universit&#xE1;rio</street>
       <city lang="en">Campina Grande/PB</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Pedro Sergio Nicolletti</name>
       <email>pedro.nicolletti@pop-pb.rnp.br</email>
-      <phone>+5583 2101 1442</phone>
+      <phone>p:+5583 2101 1442</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Eduardo Jer&#xF4;nimo</name>
       <email>eduardo.jeronimo@pop-pb.rnp.br</email>
-      <phone>+5583 2101 1442</phone>
+      <phone>p:+5583 2101 1442</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -61398,19 +61412,19 @@ Caixa Postal 99"</street>
       <street lang="en">Avenida Professor Mario Werneck , 2590 - Buritis</street>
       <city lang="en">Belo Horizonte</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rogerio Lopes Silva</name>
       <email>rogerio.silva@ifmg.edu.br</email>
-      <phone>+553125135117</phone>
+      <phone>p:+553125135117</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Leandro Evangelista Pereira </name>
       <email>leandro.pereira@ifmg.edu.br</email>
-      <phone>+5531 2513 5117</phone>
+      <phone>p:+5531 2513 5117</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -61450,19 +61464,19 @@ Caixa Postal 99"</street>
       <street lang="en">Estrada Dona Castorina, 110</street>
       <city lang="en">Rio de Janeiro</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Ricardo Gomes da Silva</name>
       <email>rgomes@impa.br</email>
-      <phone>+55 21 2529 5067</phone>
+      <phone>p:+55 21 2529 5067</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Rosa Maria Ladeira</name>
       <email>rosa@impa.br</email>
-      <phone>+55 21 2529 5062</phone>
+      <phone>p:+55 21 2529 5062</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -61502,33 +61516,33 @@ Caixa Postal 99"</street>
       <street lang="en">Rua 20 de Setembro, 2616</street>
       <city lang="en">S&#xE3;o Vicente do Sul</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rafael Ancinelo Adolpho</name>
       <email>rafael.adolpho@iffarroupilha.edu.br</email>
-      <phone>+55 5532574107</phone>
+      <phone>p:+55 5532574107</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Denis Pohlmann Gon&#xE7;alves</name>
       <email>denis.goncalves@iffarroupilha.edu.br</email>
-      <phone>+55 5532574107</phone>
+      <phone>p:+55 5532574107</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Jos&#xE9; Lopes Hipp</name>
       <email>jose.hipp@iffarroupilha.edu.br</email>
-      <phone>+55 5532189825</phone>
+      <phone>p:+55 5532189825</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Thiago da Silva Weingartner</name>
       <email>dti@iffarroupilha.edu.br</email>
-      <phone>+55 5532189826</phone>
+      <phone>p:+55 5532189826</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -61588,19 +61602,19 @@ Caixa Postal 99"</street>
       <street lang="en">Rodovia Celso Garcia Cid | Pr 445 Km 380 | Campus Universit&#xE1;rio</street>
       <city lang="en">Londrina - PR</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Sylvio Barbon Junior</name>
       <email>barbon@uel.br</email>
-      <phone>+55 43 3371 4534</phone>
+      <phone>p:+55 43 3371 4534</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Leonardo Pinheiro</name>
       <email>leonardo@uel.br</email>
-      <phone>+55 43 3371 4944</phone>
+      <phone>p:+55 43 3371 4944</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -61920,19 +61934,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Odilon Ara&#xFA;jo, 372, Pi&#xE7;arra</street>
       <city lang="en">Teresina/PI</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Rafael Amaral</name>
       <email>rafael.amaral@rnp.br</email>
-      <phone>86 32110459</phone>
+      <phone>p:86 32110459</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Ronan Oliveira</name>
       <email>ronan.oliveira@pop-pi.rnp.br</email>
-      <phone>86 32110459</phone>
+      <phone>p:86 32110459</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
@@ -61972,19 +61986,19 @@ Caixa Postal 99"</street>
       <street lang="en">Av. Cap. Ene Garcez, 2413</street>
       <city lang="en">Boa Vista - Roraima</city>
     </address>
-    <coordinates>0.00000000,0.00000000</coordinates>
+    <coordinates/>
     <inst_type/>
     <contact>
       <name>Aline tavares</name>
       <email>aline.tavare@ufrr.br</email>
-      <phone>+55(95) 3621-3172</phone>
+      <phone>p:+55(95) 3621-3172</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
     <contact>
       <name>Yaritza Barreto</name>
       <email>yaritza.barreto@ufrr.br</email>
-      <phone>+55(95) 3621-3172</phone>
+      <phone>p:+55(95) 3621-3172</phone>
       <type>1</type>
       <privacy>1</privacy>
     </contact>
